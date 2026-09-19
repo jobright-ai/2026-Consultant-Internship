@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Enventure Holdings](https://enventure.io)** | **[Business Development Intern Private Markets, Consulting & U.S.–India](https://jobright.ai/jobs/info/6aaef4260ebc8fb2313ed4ae?utm_campaign=1063&utm_source=git)** | Greater Chicago Area, United States | Remote | Sep 19 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6a91a5499864261ccd29dfab?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abf1a27a2d3c984892fc?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a54bc12c90443efc728a?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
@@ -131,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6a91bf979864261ccd29ecf2?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern (January 2027 - 4 Months - Montreal, Calgary, Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e2f5edacf777321a90afd?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 18 |
 | ↳ | **[Federal Consulting Intern (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2ad2dacf777321a90a79?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bc968f82b4036738c80?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Design Thinking Facilitation Internship - Summer 2027](https://jobright.ai/jobs/info/6aad48e22e757fcb5c8b7764?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 17 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC / Insurance Consulting Intern (2027)](https://jobright.ai/jobs/info/6a9a07c5ad752e2ad5503710?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Consulting and Implementations, FIS University Program](https://jobright.ai/jobs/info/6aac659e3dbb1f8967cea810?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
-| **[Dayforce](http://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Winter 2027](https://jobright.ai/jobs/info/6aac645b2e757fcb5c8b55ac?utm_campaign=1063&utm_source=git)** | British Columbia, Canada | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
