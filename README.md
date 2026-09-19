@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Consulting and Implementations, FIS University Program](https://jobright.ai/jobs/info/6aac659e3dbb1f8967cea810?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
 | **[Dayforce](http://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Winter 2027](https://jobright.ai/jobs/info/6aac645b2e757fcb5c8b55ac?utm_campaign=1063&utm_source=git)** | British Columbia, Canada | Remote | Sep 17 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99c8a190a313642c652c0c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e2880a7ba386c5d670e5b?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 17 |
+| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
