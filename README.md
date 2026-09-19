@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enventure Holdings](https://enventure.io)** | **[Business Development Intern Private Markets, Consulting & U.S.–India](https://jobright.ai/jobs/info/6aaef4260ebc8fb2313ed4ae?utm_campaign=1063&utm_source=git)** | Greater Chicago Area, United States | Remote | Sep 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abf1a27a2d3c984892fc?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abdbc12c90443efc74e3?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91ac118e59685453376dfd?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a51bd18f7567482791db?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a53dd18f7567482791eb?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC / Insurance Consulting Intern (2027)](https://jobright.ai/jobs/info/6a9a07c5ad752e2ad5503710?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Consulting and Implementations, FIS University Program](https://jobright.ai/jobs/info/6aac659e3dbb1f8967cea810?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
 | **[Dayforce](http://www.dayforce.com)** | **[Global Advisory Intern 4 or 8 months - Winter 2027](https://jobright.ai/jobs/info/6aac645b2e757fcb5c8b55ac?utm_campaign=1063&utm_source=git)** | British Columbia, Canada | Remote | Sep 17 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Grid Interconnection Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99c8a190a313642c652c0c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
