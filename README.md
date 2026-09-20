@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Healthcare Consulting Intern](https://jobright.ai/jobs/info/6a91a9ad3603630099193a37?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91abd69864261ccd29e1f5?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6a91abe0a27a2d3c984892f8?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91a226a27a2d3c98488fc3?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91abded18f756748279454?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abd1a27a2d3c984892f3?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 18 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2027 Internship)](https://jobright.ai/jobs/info/6aacdc0195c707f49dff2529?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 18 |
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aadf5f13dbb1f8967cefcd6?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Mechanical Section](https://jobright.ai/jobs/info/6a99f07e90a313642c653a92?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
