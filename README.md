@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a54bc12c90443efc728a?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abc6d18f756748279448?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abffc12c90443efc74ec?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abc73603630099193ad6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc7a27a2d3c984892ee?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Services Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2af127c94c3d5a1cb604?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 18 |
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2027 Internship)](https://jobright.ai/jobs/info/6aacdc0195c707f49dff2529?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 18 |
-| **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aadf5f13dbb1f8967cefcd6?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
