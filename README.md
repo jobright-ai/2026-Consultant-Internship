@@ -58,13 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Lumanity Strategy Consulting Internship at Lumanity](https://jobright.ai/jobs/info/6aafde16dd960b41564184aa?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
+| **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Sep 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2027 Summer Intern](https://jobright.ai/jobs/info/6a8767c0d34f700f87fc547f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 19 |
 | **[Enventure Holdings](https://enventure.io)** | **[Business Development Intern Private Markets, Consulting & U.S.–India](https://jobright.ai/jobs/info/6aaef4260ebc8fb2313ed4ae?utm_campaign=1063&utm_source=git)** | Greater Chicago Area, United States | Remote | Sep 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6a91a5499864261ccd29dfab?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abf1a27a2d3c984892fc?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5a39864261ccd29dfb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91be0b9864261ccd29ebfb?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a54bc12c90443efc728a?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abc6d18f756748279448?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6a91bf979864261ccd29ecf2?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern (January 2027 - 4 Months - Montreal, Calgary, Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e2f5edacf777321a90afd?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 18 |
 | ↳ | **[Federal Consulting Intern (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2ad2dacf777321a90a79?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bc968f82b4036738c80?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad516d3dbb1f8967cecd37?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 18 |
 | ↳ | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2ece75edfa11b4710744?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 8 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bf0a7ba386c5d670ea7?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[Financial Services Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2af127c94c3d5a1cb604?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
