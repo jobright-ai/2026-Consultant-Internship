@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2027 Summer Intern](https://jobright.ai/jobs/info/6a8767c0d34f700f87fc547f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 19 |
 | **[Enventure Holdings](https://enventure.io)** | **[Business Development Intern Private Markets, Consulting & U.S.–India](https://jobright.ai/jobs/info/6aaef4260ebc8fb2313ed4ae?utm_campaign=1063&utm_source=git)** | Greater Chicago Area, United States | Remote | Sep 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6a91a5499864261ccd29dfab?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6a91bf979864261ccd29ecf2?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern (January 2027 - 4 Months - Montreal, Calgary, Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e2f5edacf777321a90afd?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 18 |
 | ↳ | **[Federal Consulting Intern (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2ad2dacf777321a90a79?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bc968f82b4036738c80?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netsmart](https://www.ntst.com)** | **[Solution Delivery Consultant Intern (Summer 2027 Internship)](https://jobright.ai/jobs/info/6aacdc0195c707f49dff2529?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 18 |
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aadf5f13dbb1f8967cefcd6?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Mechanical Section](https://jobright.ai/jobs/info/6a99f07e90a313642c653a92?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| ↳ | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
