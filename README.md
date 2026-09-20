@@ -83,6 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a51bd18f7567482791db?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a53dd18f7567482791eb?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6aaa1d3a10b1cd4f41609e5e?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91be0d9864261ccd29ebfd?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Mechanical Section](https://jobright.ai/jobs/info/6a99f07e90a313642c653a92?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | ↳ | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Design Thinking Facilitation Internship - Summer 2027](https://jobright.ai/jobs/info/6aad48e22e757fcb5c8b7764?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 17 |
-| **[Alpha FMC](http://alphafmc.com)** | **[Alpha FMC / Insurance Consulting Intern (2027)](https://jobright.ai/jobs/info/6a9a07c5ad752e2ad5503710?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Consulting and Implementations, FIS University Program](https://jobright.ai/jobs/info/6aac659e3dbb1f8967cea810?utm_campaign=1063&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
