@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qvest US](https://www.qvest.com)** | **[Consulting Internship, Summer 2027](https://jobright.ai/jobs/info/6a84622fe124744552739dc2?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Lumanity Strategy Consulting Internship at Lumanity](https://jobright.ai/jobs/info/6aafde16dd960b41564184aa?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Sep 20 |
 | **[Loop Capital](http://www.loopcapital.com)** | **[Consulting Services 2027 Summer Intern](https://jobright.ai/jobs/info/6a8767c0d34f700f87fc547f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad518c2e757fcb5c8b7aca?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 18 |
 | ↳ | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad516d3dbb1f8967cecd37?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 18 |
 | ↳ | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Organizational Change Management Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2ece75edfa11b4710744?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
