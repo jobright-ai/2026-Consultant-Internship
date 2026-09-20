@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abf1a27a2d3c984892fc?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a54bc12c90443efc728a?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abffc12c90443efc74ec?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aadf5f13dbb1f8967cefcd6?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Mechanical Section](https://jobright.ai/jobs/info/6a99f07e90a313642c653a92?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | ↳ | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Design Thinking Facilitation Internship - Summer 2027](https://jobright.ai/jobs/info/6aad48e22e757fcb5c8b7764?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
