@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2027)](https://jobright.ai/jobs/info/6ab19f23f9692ca98b04ac4d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2027](https://jobright.ai/jobs/info/6ab192adf9692ca98b04a693?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 21 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[2027 Strategy Consulting, Summer Analyst](https://jobright.ai/jobs/info/6a7a01e567a1ad0bc53d10bf?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Sep 21 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb43207d4f2e632e45ae?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 21 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 20 |
+| **[SA Technologies Inc.](https://www.satincorp.com/)** | **[Sales & Marketing Consultant (Lead Generation)](https://jobright.ai/jobs/info/6ab19c88191d8c340dbdbdc6?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Enterprise Data Integration and Migration Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a99172aaf954907d6574e8a?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | On Site | Sep 20 |
 | **[Qvest US](https://www.qvest.com)** | **[Consulting Internship, Summer 2027](https://jobright.ai/jobs/info/6a84622fe124744552739dc2?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Lumanity Strategy Consulting Internship at Lumanity](https://jobright.ai/jobs/info/6aafde16dd960b41564184aa?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Federal Consulting Intern (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2ad2dacf777321a90a79?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 18 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bc968f82b4036738c80?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[Digital Product Engineering Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e28f82c964816f65ebd2c?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
