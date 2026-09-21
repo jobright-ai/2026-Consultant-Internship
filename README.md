@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[2027 Strategy Consulting, Summer Analyst](https://jobright.ai/jobs/info/6a7a01e567a1ad0bc53d10bf?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Sep 21 |
+| **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb43207d4f2e632e45ae?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 21 |
 | **[Lumanity](http://lumanity.com/)** | **[Strategy Consulting Internship](https://jobright.ai/jobs/info/6a957af81e895f1294667d7f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 21 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Consultant Relations Co-op Spring 2027 (January - June)](https://jobright.ai/jobs/info/6ab0b3fa2e757fcb5c8be42c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Salesforce Consulting & GTM Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e35f3dacf777321a90c5d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[IBM Payments Centre Strategy and Business Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2bc968f82b4036738c80?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | ↳ | **[Digital Product Engineering Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e28f82c964816f65ebd2c?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[Organizational Change Management Consultant Intern (January 2027 - 4 Months - Montreal)](https://jobright.ai/jobs/info/6a9e3b0a49f4604c7894def8?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 18 |
-| ↳ | **[Customer Experience Consulting Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e26e0a7ba386c5d670e48?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
