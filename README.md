@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 21 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e289075edfa11b47106a5?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 20 |
 | ↳ | **[Co-Op Package Consultant 2027 - SAP](https://jobright.ai/jobs/info/6a9e265927c94c3d5a1cb58d?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 20 |
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Organizational Change Management Consultant Intern (January 2027 - 4 Months - Montreal)](https://jobright.ai/jobs/info/6a9e3b0a49f4604c7894def8?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 18 |
 | ↳ | **[Customer Experience Consulting Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e26e0a7ba386c5d670e48?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Consulting](https://jobright.ai/jobs/info/6aad59163d96632d741ad414?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | Remote | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Enterprise Strategy Consultant Intern (January 2027 - 4 Months Term - Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e29c727c94c3d5a1cb5e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
