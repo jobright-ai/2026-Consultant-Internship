@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Co-Op Package Consultant 2027 - SAP](https://jobright.ai/jobs/info/6a9e265927c94c3d5a1cb58d?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 20 |
+| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e289075edfa11b47106a5?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 20 |
+| ↳ | **[Co-Op Package Consultant 2027 - SAP](https://jobright.ai/jobs/info/6a9e265927c94c3d5a1cb58d?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | Hybrid | Sep 20 |
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 20 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Consultant Relations Co-op Spring 2027 (January - June)](https://jobright.ai/jobs/info/6ab0b3fa2e757fcb5c8be42c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
 | **[Qvest US](https://www.qvest.com)** | **[Consulting Internship, Summer 2027](https://jobright.ai/jobs/info/6a84622fe124744552739dc2?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Lumanity Strategy Consulting Internship at Lumanity](https://jobright.ai/jobs/info/6aafde16dd960b41564184aa?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Healthcare Consulting Intern - Spring 2027 (Flowood, MS)](https://jobright.ai/jobs/info/6a5add3c686b4755d1e16dad?utm_campaign=1063&utm_source=git)** | Flowood, MS, United States | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Experience Consulting Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e26e0a7ba386c5d670e48?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Consulting](https://jobright.ai/jobs/info/6aad59163d96632d741ad414?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | Remote | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Strategy Consultant Intern (January 2027 - 4 Months Term - Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e29c727c94c3d5a1cb5e7?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 18 |
-| ↳ | **[Federal Consulting Intern, Business Analysis (January 2027 - 4 Months - Ottawa)](https://jobright.ai/jobs/info/6a9e2ac927c94c3d5a1cb601?utm_campaign=1063&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Sep 18 |
-| ↳ | **[Microsoft 365 Copilot Studio Consultant Intern (January 2027 - 4 Months - Toronto)](https://jobright.ai/jobs/info/6a9e2e7568f82b4036738cc2?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
