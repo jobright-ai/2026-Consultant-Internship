@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 22 |
+| ↳ | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, MI, United States | Hybrid | Sep 22 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life) - 2027](https://jobright.ai/jobs/info/6a95b9444c22023a079355b5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 22 |
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Associate Consultant Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d1a25fc4e7ae3dbb603?utm_campaign=1063&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 21 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6ab206de191d8c340dbdd89f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aae10673dbb1f8967cf00b3?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Sep 18 |
 | **[Newmark](https://dayrep.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 18 |
 | ↳ | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadcc40de327d3e210d471b?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Sep 18 |
-| **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Consulting Services AI & Automation Intern](https://jobright.ai/jobs/info/6aadb2856956574eac8b72f4?utm_campaign=1063&utm_source=git)** | Fairfield, IA, United States | On Site | Sep 18 |
-| **[Arup](http://www.arup.com)** | **[Environmental Consulting Intern (January - April 2027)](https://jobright.ai/jobs/info/6aadb84f2e757fcb5c8ba013?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
