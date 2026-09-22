@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab1b1e2f9692ca98b04b4ea?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 21 |
-| ↳ | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6ab1ab4832552369083e3b08?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 21 |
-| ↳ | **[M&A Consulting Intern - (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab1ab26191d8c340dbdc3ff?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 21 |
-| **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2027)](https://jobright.ai/jobs/info/6ab19f23f9692ca98b04ac4d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2027](https://jobright.ai/jobs/info/6ab192adf9692ca98b04a693?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 21 |
+| **[MasterBorn](https://masterborn.com/)** | **[Intern Integration Consultant](https://jobright.ai/jobs/info/6ab1c3e3f9692ca98b04bb70?utm_campaign=1063&utm_source=git)** | Multnomah County, Oregon, United States | Remote | Sep 21 |
+| **[United Airlines](https://www.united.com)** | **[Masters/MBA Intern - Global Procurement (Summer 2027)](https://jobright.ai/jobs/info/6ab19f23f9692ca98b04ac4d?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 21 |
+| **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab1b1e2f9692ca98b04b4ea?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 21 |
+| ↳ | **[M&A Consulting Intern - (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab1ab26191d8c340dbdc3ff?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 21 |
+| ↳ | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6ab1ab4832552369083e3b08?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 21 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[2027 Strategy Consulting, Summer Analyst](https://jobright.ai/jobs/info/6a7a01e567a1ad0bc53d10bf?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Sep 21 |
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb43207d4f2e632e45ae?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 21 |
 | **[Lumanity](http://lumanity.com/)** | **[Strategy Consulting Internship](https://jobright.ai/jobs/info/6a957af81e895f1294667d7f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Demo Consultant](https://jobright.ai/jobs/info/6aad6df13dbb1f8967ced778?utm_campaign=1063&utm_source=git)** | Remote, United States | Remote | Sep 18 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Finance Transformation Intern - Atlanta](https://jobright.ai/jobs/info/6aad8a4f6956574eac8b653a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 18 |
 | **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6a91bf979864261ccd29ecf2?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 18 |
-| **[IBM](http://www.ibm.com)** | **[Oracle Consultant Intern (January 2027 - 4 Months - Montreal, Calgary, Toronto, Ottawa)](https://jobright.ai/jobs/info/6a9e2f5edacf777321a90afd?utm_campaign=1063&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
