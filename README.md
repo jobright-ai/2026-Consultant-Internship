@@ -57,23 +57,41 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Strategy& Strategy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d3c8763a3a87ffe06d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Cyber - Data, Risk & Privacy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dc4c22023a07937b7f?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Management Consulting - Finance Solutions - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608cf3843db01599091d5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8c8763a3a87ffe07e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ecefe45b8490f606ea6?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9af3a89c24314c35f9641a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec92cdc5958f53eaeb5?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06858a2266b538d23020f?utm_campaign=1063&utm_source=git)** | Kansas City, KS, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa531972ed333b4ea5c5fbb?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa0693d3b5aa83237b08e19?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020f8dbc0e60e37e0b91e?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa068b43b5aa83237b08e15?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4c36c654b2a9424cf12fe?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020fd500b01124c776f50?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
+| **[PwC](http://pwc.com)** | **[Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e1c8763a3a87ffe08e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2f28891320e85fd65?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Management Consulting - Workforce Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dbf28891320e85fd8d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Management Consulting - Sector Operations - Health Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2c8763a3a87ffe06b?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dbf28891320e85fd90?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Cybersecurity Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e03843db0159909209?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Management Consulting - Sector Operations - Financial Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d24c22023a07937b62?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Consulting - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d93843db01599091f5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Management Consulting - Operations & Supply Chain Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d5c8763a3a87ffe070?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Legal, Regulatory & Compliance Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608eb3843db0159909211?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| ↳ | **[Accelerated Solutions Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608ddf28891320e85fd94?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Government Procurement and Contracting](https://jobright.ai/jobs/info/6ab2ad6b8254c44790e568ee?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Sep 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://jobright.ai/jobs/info/6ab294608254c44790e55c5e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Technology Consulting - Geographic Information Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d39fcec5442373102d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2a9bf1508734c1530b048?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 22 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6ab2a87630340229a322ec38?utm_campaign=1063&utm_source=git)** | York, IL, United States | On Site | Sep 22 |
 | ↳ | **[Advisory Intern, Technology / Tampa Summer 2027](https://jobright.ai/jobs/info/6ab2a5fc1508734c1530ade2?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
-| **[PwC](http://pwc.com)** | **[Cybersecurity Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e03843db0159909209?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Management Consulting - Sector Operations - Health Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2c8763a3a87ffe06b?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Cyber - Data, Risk & Privacy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dc4c22023a07937b7f?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Legal, Regulatory & Compliance Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608eb3843db0159909211?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Management Consulting - Sector Operations - Financial Services Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d24c22023a07937b62?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8c8763a3a87ffe07e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Consulting - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d93843db01599091f5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Investigations and Forensics Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608ddcabc9f6703e1bcc3?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| **[PwC](http://pwc.com)** | **[Investigations and Forensics Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608ddcabc9f6703e1bcc3?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Strategy& Deals Strategy Value Creation Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e03843db015990920a?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e1c8763a3a87ffe08e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Business Process Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dbf28891320e85fd90?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Management Consulting - Finance Solutions - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608cf3843db01599091d5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Consulting](https://jobright.ai/jobs/info/6aad59163d96632d741ad414?utm_campaign=1063&utm_source=git)** | Pennsylvania, United States | Remote | Sep 22 |
 | **[IBM](http://www.ibm.com)** | **[Federal Consulting Intern 2027](https://jobright.ai/jobs/info/6ab2945c326574570a0018a8?utm_campaign=1063&utm_source=git)** | Herndon, VA, United States | On Site | Sep 22 |
 | **[NTH Consultants, Ltd.](http://nthconsultants.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/6ab2738a8254c44790e5544e?utm_campaign=1063&utm_source=git)** | Northville, MI, United States | On Site | Sep 22 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abdbc12c90443efc74e3?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91ac118e59685453376dfd?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a51bd18f7567482791db?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a53dd18f7567482791eb?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Product Management Consulting Intern](https://jobright.ai/jobs/info/6aaa1d3a10b1cd4f41609e5e?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91be0d9864261ccd29ebfd?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91bdc0d18f756748279e43?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Labs Asset Foundry Consulting Intern](https://jobright.ai/jobs/info/6a91be51c12c90443efc7f39?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a225d18f756748279121?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd79864261ccd29e1f6?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91be279864261ccd29ec21?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91a5018e59685453376b35?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Software Engineering (AI Concentration) Consulting Intern](https://jobright.ai/jobs/info/6a91be219864261ccd29ec17?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91be05d18f756748279eb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Insurance Consulting Intern](https://jobright.ai/jobs/info/6a91be08d18f756748279eb8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
-| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91bdc5a27a2d3c98489d0c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
