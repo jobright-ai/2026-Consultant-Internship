@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e264368f82b4036738c0c?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 20 |
+| **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6ab206de191d8c340dbdd89f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 20 |
 | **[SA Technologies Inc.](https://www.satincorp.com/)** | **[Sales & Marketing Consultant (Lead Generation)](https://jobright.ai/jobs/info/6ab19c88191d8c340dbdbdc6?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Enterprise Data Integration and Migration Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a99172aaf954907d6574e8a?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | On Site | Sep 20 |
 | **[Qvest US](https://www.qvest.com)** | **[Consulting Internship, Summer 2027](https://jobright.ai/jobs/info/6a84622fe124744552739dc2?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Environmental Consulting Intern (January - April 2027)](https://jobright.ai/jobs/info/6aadb84f2e757fcb5c8ba013?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 18 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Demo Consultant](https://jobright.ai/jobs/info/6aad6df13dbb1f8967ced778?utm_campaign=1063&utm_source=git)** | Remote, United States | Remote | Sep 18 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Finance Transformation Intern - Atlanta](https://jobright.ai/jobs/info/6aad8a4f6956574eac8b653a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 18 |
-| **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6a91bf979864261ccd29ecf2?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
