@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8c7a27a2d3c984891c5?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
 | **[Siemens](https://sw.siemens.com/en-us)** | **[Power Systems Technical Consultant Intern](https://jobright.ai/jobs/info/6aae129a3d96632d741b06ed?utm_campaign=1063&utm_source=git)** | Minnetonka, MN, United States | Remote | Sep 18 |
 | ↳ | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aae10673dbb1f8967cf00b3?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Sep 18 |
-| **[Newmark](https://dayrep.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 18 |
+| **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 18 |
 | ↳ | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadcc40de327d3e210d471b?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
