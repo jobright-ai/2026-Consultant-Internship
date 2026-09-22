@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6a8d554dd34f700f87fd3f47?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Sep 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 22 |
 | ↳ | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, MI, United States | Hybrid | Sep 22 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life) - 2027](https://jobright.ai/jobs/info/6a95b9444c22023a079355b5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 22 |
+| **[NTH Consultants, Ltd.](http://nthconsultants.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/6ab2738a8254c44790e5544e?utm_campaign=1063&utm_source=git)** | Northville, MI, United States | On Site | Sep 22 |
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Associate Consultant Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d1a25fc4e7ae3dbb603?utm_campaign=1063&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 21 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6ab206de191d8c340dbdd89f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2027](https://jobright.ai/jobs/info/6ab192adf9692ca98b04a693?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8c7a27a2d3c984891c5?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
 | **[Siemens](https://sw.siemens.com/en-us)** | **[Power Systems Technical Consultant Intern](https://jobright.ai/jobs/info/6aae129a3d96632d741b06ed?utm_campaign=1063&utm_source=git)** | Minnetonka, MN, United States | Remote | Sep 18 |
 | ↳ | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aae10673dbb1f8967cf00b3?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Sep 18 |
-| **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 18 |
-| ↳ | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadcc40de327d3e210d471b?utm_campaign=1063&utm_source=git)** | Texas, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
