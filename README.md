@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Group Internal Consulting - NY/NJ](https://jobright.ai/jobs/info/6ab287c41e4847ddae914a7a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
+| **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027 Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c59326574570a00123d?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 22 |
+| ↳ | **[Advisory Analyst - Internship 2027 / Management Consulting Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c571508734c15309fde?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 22 |
+| ↳ | **[Advisory Analyst - Internship / Management Consulting Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c4a78c69ff506c3ea84?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 22 |
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6a8d554dd34f700f87fd3f47?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Sep 22 |
+| **[Lord Abbett](https://www.lordabbett.com/en.html)** | **[Advisor Consultant Internship - Summer 2027](https://jobright.ai/jobs/info/6a9650abcabc9f6703e1cf27?utm_campaign=1063&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 22 |
 | ↳ | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, MI, United States | Hybrid | Sep 22 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Intern (Life) - 2027](https://jobright.ai/jobs/info/6a95b9444c22023a079355b5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 19 |
 | ↳ | **[2027 Software Engineering (AI Concentration) Consulting Intern](https://jobright.ai/jobs/info/6a91a5128e59685453376b44?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 19 |
 | **[Empower](https://www.empower.fi/)** | **[Summer 2027 Intern – Actuarial Benefit Consulting Services](https://jobright.ai/jobs/info/6aac116f3d96632d741a8f92?utm_campaign=1063&utm_source=git)** | Hartford, CT, United States | On Site | Sep 19 |
-| **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a6e1360363009919390f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
-| ↳ | **[(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8fc36036300991939f2?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
-| ↳ | **[(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8c7a27a2d3c984891c5?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 19 |
-| **[Siemens](https://sw.siemens.com/en-us)** | **[Power Systems Technical Consultant Intern](https://jobright.ai/jobs/info/6aae129a3d96632d741b06ed?utm_campaign=1063&utm_source=git)** | Minnetonka, MN, United States | Remote | Sep 18 |
-| ↳ | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aae10673dbb1f8967cf00b3?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
