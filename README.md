@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[AI-First Transformation – Strategy Consultant Intern](https://jobright.ai/jobs/info/6ab41311d2f5fbd604be1658?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Sep 23 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health and Human Services](https://jobright.ai/jobs/info/6a8ef791382b237ac80c3777?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Sep 23 |
 | **[Withum](http://www.withum.com)** | **[Tax Valuation Consulting Spring Internship 2027](https://jobright.ai/jobs/info/6a96fe0fe4e60e4b8da5b32f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 23 |
 | **[Civic Response Consulting](https://www.civicresponse.org/)** | **[Political Consulting Intern](https://jobright.ai/jobs/info/6ab3fe8a7bd0813713314e86?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Sep 23 |
@@ -113,18 +114,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2c7931e4847ddae91665e?utm_campaign=1063&utm_source=git)** | Silicon Valley, California, United States | On Site | Sep 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2effb1e4847ddae91735f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aaed6563d96632d741b177d?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa068b43b5aa83237b08e15?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9af3a89c24314c35f9641a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec92cdc5958f53eaeb5?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa531972ed333b4ea5c5fbb?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 22 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020fd500b01124c776f50?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4c36c654b2a9424cf12fe?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06858a2266b538d23020f?utm_campaign=1063&utm_source=git)** | Kansas City, KS, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa0693d3b5aa83237b08e19?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020f8dbc0e60e37e0b91e?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020fd500b01124c776f50?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa068b43b5aa83237b08e15?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa531972ed333b4ea5c5fbb?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06858a2266b538d23020f?utm_campaign=1063&utm_source=git)** | Kansas City, KS, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec92cdc5958f53eaeb5?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9af3a89c24314c35f9641a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ecefe45b8490f606ea6?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020f8dbc0e60e37e0b91e?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 22 |
 | **[PROJXON](https://projxon.com)** | **[Reserach Specialist (MBA Intern)](https://jobright.ai/jobs/info/6ab2f5cd1508734c1530ce30?utm_campaign=1063&utm_source=git)** | Las Vegas Metropolitan Area, United States | Remote | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2a9bf1508734c1530b048?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 22 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6ab2a87630340229a322ec38?utm_campaign=1063&utm_source=git)** | York, IL, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lumanity](http://lumanity.com/)** | **[Strategy Consulting Internship](https://jobright.ai/jobs/info/6a957af81e895f1294667d7f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 21 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Service Consultant Summer Internship 2027 Job Details / CenterPoint Energy](https://jobright.ai/jobs/info/6aa38932626f9945308b15ba?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 21 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Consultant Relations Co-op Spring 2027 (January - June)](https://jobright.ai/jobs/info/6ab0b3fa2e757fcb5c8be42c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 20 |
-| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e289075edfa11b47106a5?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
