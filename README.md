@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Global Services Intern (Summer 2027)](https://jobright.ai/jobs/info/6a96ea52d13b4819f39ddb75?utm_campaign=1063&utm_source=git)** | Westerville, OH, United States | On Site | Sep 23 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Business Valuation Consultant Intern](https://jobright.ai/jobs/info/6a97165d246d697dcee03498?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 23 |
 | ↳ | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Sep 23 |
 | ↳ | **[2027 Information Technology Consulting: Public Sector – Intern](https://jobright.ai/jobs/info/6a9704f8f5337b2cf731f789?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 23 |
@@ -107,17 +108,17 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2effb1e4847ddae91735f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6aaed6563d96632d741b177d?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa531972ed333b4ea5c5fbb?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa068b43b5aa83237b08e15?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020f8dbc0e60e37e0b91e?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020fd500b01124c776f50?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa0693d3b5aa83237b08e19?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06858a2266b538d23020f?utm_campaign=1063&utm_source=git)** | Kansas City, KS, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4c36c654b2a9424cf12fe?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ecefe45b8490f606ea6?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020fd500b01124c776f50?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa020f8dbc0e60e37e0b91e?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9af3a89c24314c35f9641a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec92cdc5958f53eaeb5?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ec82cdc5958f53eaeb4?utm_campaign=1063&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a95db389fcec5442372f9fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
-| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b1ecefe45b8490f606ea6?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa068b43b5aa83237b08e15?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa4c36c654b2a9424cf12fe?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Sep 22 |
+| ↳ | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06858a2266b538d23020f?utm_campaign=1063&utm_source=git)** | Kansas City, KS, United States | On Site | Sep 22 |
 | **[PROJXON](https://projxon.com)** | **[Reserach Specialist (MBA Intern)](https://jobright.ai/jobs/info/6ab2f5cd1508734c1530ce30?utm_campaign=1063&utm_source=git)** | Las Vegas Metropolitan Area, United States | Remote | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2a9bf1508734c1530b048?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Sep 22 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Advisory Intern, Technology / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6ab2a87630340229a322ec38?utm_campaign=1063&utm_source=git)** | York, IL, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Sep 20 |
 | ↳ | **[Atlantic Consulting Intern (January 2027 - 4 Months - Halifax)](https://jobright.ai/jobs/info/6a9e23f527c94c3d5a1cb56a?utm_campaign=1063&utm_source=git)** | Bedford, NS, Canada | Hybrid | Sep 20 |
 | **[SA Technologies Inc.](https://www.satincorp.com/)** | **[Sales & Marketing Consultant (Lead Generation)](https://jobright.ai/jobs/info/6ab19c88191d8c340dbdbdc6?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 20 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Enterprise Data Integration and Migration Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a99172aaf954907d6574e8a?utm_campaign=1063&utm_source=git)** | Dallas, Texas, United States | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
