@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Building Science + Infrastructure Consulting Internship (Level 1)](https://jobright.ai/jobs/info/6aa38c60c5a856ac7e339f61?utm_campaign=1063&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 24 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Plano, TX](https://jobright.ai/jobs/info/6a9896bfdef18223c8550575?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Sep 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Enterprise Data Integration and Migration Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a987e7011f73b6462c8eee5?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Sep 24 |
 | **[Civic Response Consulting](https://www.civicresponse.org/)** | **[Political Consulting Intern](https://jobright.ai/jobs/info/6ab55d5fb3db59402d0fc4af?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Remote | Sep 24 |
@@ -84,11 +85,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FamilySearch Library United States & Canada Research Consultant Internship](https://jobright.ai/jobs/info/6ab499b8d2f5fbd604be3e90?utm_campaign=1063&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 23 |
 | **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab4597a55e9168cf5ea61de?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 23 |
 | ↳ | **[M&A Consulting Intern - (Hybrid in Chicago)](https://jobright.ai/jobs/info/6ab459deef911c35dffa4fd0?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 23 |
-| **[The Poirier Group](https://www.thepoiriergroup.com)** | **[Consulting Internship (16 Month Contract)](https://jobright.ai/jobs/info/6a60676e2a30b85637873f0d?utm_campaign=1063&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Sep 23 |
+| **[The Poirier Group](https://www.thepoiriergroup.com)** | **[Consulting Internship (16 Month Contract)](https://jobright.ai/jobs/info/69417fa114ee092a69ffa4a7?utm_campaign=1063&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Sep 23 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Network Strategy Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6ab46e8e64816213f2d99178?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 23 |
 | ↳ | **[Retail Training Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6ab46e8164816213f2d99176?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 23 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern - Summer 2027 - Wellbeing Consulting](https://jobright.ai/jobs/info/6ab4619e7bd0813713317770?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Sep 23 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Consulting Analyst Intern (LCS)](https://jobright.ai/jobs/info/6ab56a8f634ec6aa7c0cec04?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Consulting Analyst Intern (LCS)](https://jobright.ai/jobs/info/6ab566b9d85922de20ce0d86?utm_campaign=1063&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Lumanity Strategy Consulting Internship at Lumanity](https://jobright.ai/jobs/info/6ab547f7c6fe0dec811a0200?utm_campaign=1063&utm_source=git)** | Indiana, United States | Hybrid | Sep 23 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Federal Tax M&A Consulting Summer 2027 / Charlotte, NC](https://jobright.ai/jobs/info/6ab433dc55e9168cf5ea4fef?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 23 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern - Summer 2027 - Wellbeing Consulting](https://jobright.ai/jobs/info/6ab4460c55e9168cf5ea5786?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2cc3d78c69ff506c409a2?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Sep 22 |
 | ↳ | **[Financial Crimes Unit Data & Analytics Tech Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e1c8763a3a87ffe08e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2c7931e4847ddae91665e?utm_campaign=1063&utm_source=git)** | Silicon Valley, California, United States | On Site | Sep 22 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Financial Services Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2effb1e4847ddae91735f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
