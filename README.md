@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DHL Consulting](https://dhl-consulting.com/)** | **[2027 Visiting Consultant, Summer Internships, DHL Consulting Americas](https://jobright.ai/jobs/info/6a9f03ce68f82b403673c14a?utm_campaign=1063&utm_source=git)** | Plantation, Florida, United States | Hybrid | Sep 24 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Network Strategy Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6ab5c12c9d4843569fe4bf42?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 24 |
 | ↳ | **[Retail Training Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6ab5c05c4873fd3fd852bb54?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 24 |
 | ↳ | **[Product & Technology Communications Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6ab5c056634ec6aa7c0d1172?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 24 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2ef08326574570a003d0e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sector Operations - Health Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d2c8763a3a87ffe06b?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Internship Environmental/Civil Engineer (Environmental Consulting: Remediation, and Solid Waste Design) (Start May/June 2027) - Goshen or Rochester, NY](https://jobright.ai/jobs/info/6ab2c62e1e4847ddae9165f8?utm_campaign=1063&utm_source=git)** | Goshen, NY, United States | On Site | Sep 22 |
-| **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6ab10f3232552369083e0478?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
+| **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a9e94bb2c964816f65ed8e4?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 22 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2027](https://jobright.ai/jobs/info/6a8de70825fc4e7ae3dbe88c?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 22 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e3f978c69ff506c41097?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Government Procurement and Contracting](https://jobright.ai/jobs/info/6ab2ad6b8254c44790e568ee?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Consulting - Geographic Information Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d39fcec5442373102d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Accelerated Solutions Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608ddf28891320e85fd94?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Strategy& Deals Strategy Value Creation Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608e03843db015990920a?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Management Consulting - Sales, Service and Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2faee30340229a3230e1d?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
