@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a99d5978a8b765bc55f5c88?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Sep 25 |
 | **[Axle Logistics](https://axlelogistics.com)** | **[Logistics Consultant Sales Intern (Summer)](https://jobright.ai/jobs/info/6a9982528a8b765bc55f3617?utm_campaign=1063&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 25 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | Hybrid | Sep 25 |
 | **[Wipfli](http://www.wipfli.com)** | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6ab63a46b3db59402d1000ce?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 25 |
 | ↳ | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6ab63a2a9d4843569fe4d21a?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 25 |
-| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f390a313642c65400e?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 25 |
-| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00e1040e5c3d0759a29e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 25 |
-| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00e8040e5c3d0759a2ab?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 25 |
 | ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00e8551435518ebf2800?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
-| ↳ | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f1040e5c3d0759a2c8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
-| ↳ | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00fc040e5c3d0759a2e5?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 25 |
-| ↳ | **[Data & Analytics Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f590a313642c654015?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 25 |
-| ↳ | **[Data & Analytics Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f2040e5c3d0759a2d9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
+| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00e1040e5c3d0759a29e?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 25 |
+| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f390a313642c65400e?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 25 |
+| ↳ | **[ERP Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00e8040e5c3d0759a2ab?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 25 |
+| ↳ | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f18a8b765bc55f6e00?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
+| ↳ | **[CRM Tech Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f4ad752e2ad550347f?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 25 |
+| ↳ | **[Data & Analytics Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a0101551435518ebf284f?utm_campaign=1063&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 25 |
 | ↳ | **[Data & Analytics Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a018cad752e2ad5503523?utm_campaign=1063&utm_source=git)** | Radnor, PA, United States | Hybrid | Sep 25 |
+| ↳ | **[Data & Analytics Consulting Internship - Summer 2027](https://jobright.ai/jobs/info/6a9a00f2040e5c3d0759a2d9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
 | **[Lake Superior Consulting](https://www.lsconsulting.com/)** | **[Structural Engineering Intern Job Details / Lake Superior Consulting](https://jobright.ai/jobs/info/6ab6370a4873fd3fd852ce6d?utm_campaign=1063&utm_source=git)** | Cranberry Township, PA, United States | On Site | Sep 25 |
 | **[Farallon Consulting](http://farallonconsulting.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/6ab5a4974873fd3fd852b434?utm_campaign=1063&utm_source=git)** | Bellevue, WA, United States | On Site | Sep 25 |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab619b5c6fe0dec811a4425?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e23830340229a3230304?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Technology Risk Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8c8763a3a87ffe07e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | ↳ | **[Management Consulting - Finance Solutions - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608cf3843db01599091d5?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
-| ↳ | **[Cyber - Data, Risk & Privacy Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dc4c22023a07937b7f?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
