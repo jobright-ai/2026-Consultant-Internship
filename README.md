@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The MJ Companies](https://themjcos.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/6a91a4df9864261ccd29df79?utm_campaign=1063&utm_source=git)** | Carmel, IN, United States | On Site | Oct 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Hartford, Connecticut](https://jobright.ai/jobs/info/6ac8fcf16355f8776ff16c50?utm_campaign=1063&utm_source=git)** | Hartford, CT, United States | On Site | Oct 09 |
 | **[Oracle](https://www.oracle.com/)** | **[ERP Functional Consultant - SkillBridge Military Fellowship](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Nashville, TN, United States | Remote | Oct 09 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Available Summer 2027)](https://jobright.ai/jobs/info/6ac8326651a1b3e4219f0cbe?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 08 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb592?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e267a2c964816f65ebcfd?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e264e75edfa11b4710668?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
-| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a9e26802c964816f65ebd01?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Oct 08 |
+| ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a9e26802c964816f65ebd01?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e2676a7ba386c5d670e36?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e252ba7ba386c5d670e21?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Oct 08 |
 | ↳ | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e252768f82b4036738c0a?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Oct 08 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Intern Finance Specialist – Finance Transformation – 2027](https://jobright.ai/jobs/info/6ac4851a372c01f6cd735df5?utm_campaign=1063&utm_source=git)** | Baton Rouge, LA, United States | On Site | Oct 05 |
 | **[Marsh Risk](https://www.marsh.com)** | **[Health Consulting Summer Intern - West Market - College Program 2027](https://jobright.ai/jobs/info/6ac56bb78ff3fb9b3bc89ac3?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 05 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Environmental Consulting and Risk Management Intern](https://jobright.ai/jobs/info/6ac46b59064da25272e12957?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 05 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Winter 2027 / Springfield](https://jobright.ai/jobs/info/6ac47654064da25272e12ebb?utm_campaign=1063&utm_source=git)** | Springfield, MO, United States | On Site | Oct 05 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Consulting Winter 2027 / Springfield](https://jobright.ai/jobs/info/6ac3954d372c01f6cd7312f2?utm_campaign=1063&utm_source=git)** | Springfield, MO, United States | On Site | Oct 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Dallas - Fort Worth Metroplex, Texas](https://jobright.ai/jobs/info/6ac41e36d9621c5b2839fc02?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 05 |
 | **[IBM](http://www.ibm.com)** | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6ac477fe0e027c0f3b3ab0e9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 05 |
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Consultant Intern, Summer 2027 - Toronto, Canada](https://jobright.ai/jobs/info/6ac51ec54ac55253f5d74939?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 05 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Health Consulting Summer Intern - West Market - College Program 2027](https://jobright.ai/jobs/info/6ac5321d064da25272e15651?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 05 |
 | **[Hatch](https://www.hatch.com)** | **[Analyst, Management Consulting - Internship 2027](https://jobright.ai/jobs/info/6ac48148064da25272e13094?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 05 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6ac806a5fe8f33a85d4feb20?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 05 |
-| ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6ac52b2ed9621c5b283a39ca?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Oct 05 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6ac52b2ed9621c5b283a39ca?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Oct 05 |
+| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6ac806a5fe8f33a85d4feb20?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 05 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://jobright.ai/jobs/info/6ac41e24372c01f6cd734101?utm_campaign=1063&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 05 |
-| ↳ | **[Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://jobright.ai/jobs/info/6ac40c67372c01f6cd733b18?utm_campaign=1063&utm_source=git)** | Greater Sacramento, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
