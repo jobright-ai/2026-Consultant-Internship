@@ -110,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb592?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e267a2c964816f65ebcfd?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e264e75edfa11b4710668?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
-| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – Workday 2027](https://jobright.ai/jobs/info/6a9e26802c964816f65ebd01?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 08 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Oct 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e2676a7ba386c5d670e36?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e252ba7ba386c5d670e21?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Oct 08 |
 | ↳ | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e252768f82b4036738c0a?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Oct 08 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://jobright.ai/jobs/info/6ac51db90e027c0f3b3ace59?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 06 |
 | **[Wood](http://www.woodgroup.com)** | **[Environmental Consulting Intern](https://jobright.ai/jobs/info/6aa865c4930bff471a2a719c?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 06 |
-| **[Google](https://www.google.com)** | **[Security Consultant Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6aa8052f3a9f0a4fe6f16a17?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 06 |
-| ↳ | **[Security Consultant Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6aa805cf654b2a9424cfa21e?utm_campaign=1063&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 06 |
+| **[Google](https://www.google.com)** | **[Security Consultant Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6aa805cf654b2a9424cfa21e?utm_campaign=1063&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 06 |
+| ↳ | **[Security Consultant Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6aa8052f3a9f0a4fe6f16a17?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
