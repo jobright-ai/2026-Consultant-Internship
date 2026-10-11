@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91abe63603630099193ae8?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abcc3603630099193ada?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
-| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91a505360363009919388a?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91a505360363009919388a?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6aae9f472e757fcb5c8bbc18?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91ac118e59685453376dfd?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abd1a27a2d3c984892f3?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 10 |
