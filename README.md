@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 10 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 10 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aca6afc002e496d4beec13e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Oct 10 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 10 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abc9a27a2d3c984892ef?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd7c12c90443efc74e1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91abe63603630099193ae8?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abcc3603630099193ada?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6aae9f472e757fcb5c8bbc18?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91ac118e59685453376dfd?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Software Engineering (AI Concentration) Consulting Intern](https://jobright.ai/jobs/info/6a91be29a27a2d3c98489d43?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Labs Asset Foundry Consulting Intern](https://jobright.ai/jobs/info/6a91be51c12c90443efc7f39?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 10 |
@@ -145,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 Job Details / Scotiabank](https://jobright.ai/jobs/info/6ac646594ac55253f5d793fc?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 07 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Infrastructure & Networking Consulting Internship](https://jobright.ai/jobs/info/6aa9c0c310b1cd4f416078d3?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 07 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9d8723387a3d9b67d7632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab60335b3db59402d0ffa6c?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa975dd28e24cb38513a807?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Oct 07 |
 | **[Intertek](http://www.intertek.com)** | **[Environmental Consulting Internship](https://jobright.ai/jobs/info/6a8d9fbca5639a4810326764?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Oct 07 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ac724578ff3fb9b3bc90361?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 06 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ac72459d9621c5b283abd93?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2ef08326574570a003d0e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 06 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobright.ai/jobs/info/6ac51ec3064da25272e14d9a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 06 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e23830340229a3230304?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
-| **[Metis Strategy](https://www.metisstrategy.com)** | **[Summer '27 Graduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac525d1372c01f6cd737db1?utm_campaign=1063&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 06 |
-| ↳ | **[Summer '27 Undergraduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac525cf8ff3fb9b3bc87e16?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA, United States | On Site | Oct 06 |
-| ↳ | **[Summer '27 Undergraduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac525cdd9621c5b283a3796?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
