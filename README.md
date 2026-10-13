@@ -62,12 +62,12 @@ For a complete list, click the following sortable link below:
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 12 |
 | **[UST](https://www.ust.com)** | **[Strategy & Consulting Intern](https://jobright.ai/jobs/info/6acd9805002e496d4bef2c77?utm_campaign=1063&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Oct 12 |
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e44ddd23cce28a10ba4?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd25233c831dc4086c0db5?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e56a56e5406e57bfb63?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e63e7a1d93332110186?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1cfb3c831dc4086c09ac?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd254f002e496d4bef0df7?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2508d113c967e3c7c6e6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
+| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd254f002e496d4bef0df7?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
+| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd25233c831dc4086c0db5?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 12 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6acd7d65d113c967e3c7e123?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac94ba1d4a5a03707411b3d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 12 |
 | ↳ | **[Technical Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd2403ddd23cce28a10edb?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91be05d18f756748279eb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 10 |
-| ↳ | **[2027 Labs Asset Foundry Consulting Intern](https://jobright.ai/jobs/info/6a91be51c12c90443efc7f39?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Software Engineering (AI Concentration) Consulting Intern](https://jobright.ai/jobs/info/6a91be29a27a2d3c98489d43?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 10 |
+| ↳ | **[2027 Labs Asset Foundry Consulting Intern](https://jobright.ai/jobs/info/6a91be51c12c90443efc7f39?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5a39864261ccd29dfb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 10 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a6e1360363009919390f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 10 |
 | **[Oracle](https://www.oracle.com/)** | **[ERP Functional Consultant - SkillBridge Military Fellowship](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Nashville, TN, United States | Remote | Oct 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8fc36036300991939f2?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 10 |
-| **[Metis Strategy](https://www.metisstrategy.com)** | **[Summer '27 Graduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac01364372c01f6cd72a6d9?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA, United States | On Site | Oct 10 |
-| ↳ | **[Summer '27 Undergraduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac525cf064da25272e150da?utm_campaign=1063&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 10 |
+| **[Metis Strategy](https://www.metisstrategy.com)** | **[Summer '27 Undergraduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac525cf064da25272e150da?utm_campaign=1063&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 10 |
+| ↳ | **[Summer '27 Graduate Internship - Strategy & Mgmt. Consultant](https://jobright.ai/jobs/info/6ac01364372c01f6cd72a6d9?utm_campaign=1063&utm_source=git)** | Walnut Creek, CA, United States | On Site | Oct 10 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac94babfcdafb60c6a4bb98?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
