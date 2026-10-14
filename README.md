@@ -5,6 +5,8 @@
 
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Consultant.
 
+> Canada resource: [Hanzilla Jobs](https://jobs.hanzilla.co/business/) is a free daily-updated Canadian student and recent-grad job board for consulting-adjacent business, finance, engineering, tech, internships, co-ops, new-grad, junior, and entry-level roles across fields.
+
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1063&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
