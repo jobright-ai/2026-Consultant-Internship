@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Data Product Development Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6abecc020e027c0f3b39b1c4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 15 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Data Product Development Junior Associate Consultant (Intern)](https://jobright.ai/jobs/info/6abec2898ff3fb9b3bc7597a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 15 |
+| **[Wasserman](https://the.team/)** | **[Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/6ad14d1ea4f99fef81943743?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 15 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6ad13f61e2d41540d4a6f606?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 15 |
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Oct 15 |
-| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6ad11e8e256e49282e652c45?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Oct 15 |
+| ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6ad11e8e256e49282e652c45?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
 | **[FutureTech Insights](futuretechinsights.net)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ad131f53d3a5aa909b388fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Remote | Oct 15 |
 | **[Coastal](https://coastalcloud.us)** | **[Junior Analyst, Lexington - Spring 2027](https://jobright.ai/jobs/info/6a43847a0ad88b0a1a998d30?utm_campaign=1063&utm_source=git)** | Lexington, KY, United States | On Site | Oct 15 |
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship](https://jobright.ai/jobs/info/6ad0ec3d18608b6f36f7fe16?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Managed IT Consulting Intern](https://jobright.ai/jobs/info/6a97051c246d697dcee02d17?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Oct 15 |
 | **[GBC Group GmbH](https://www.gbc-gruppe.com)** | **[Werkstudent [m/w/d] - Projektunterstützung/ Consulting Operations](https://jobright.ai/jobs/info/6ad08f391db1f75ea46a0248?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 15 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abeb9fc372c01f6cd7251a8?utm_campaign=1063&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 14 |
-| **[Wasserman](https://the.team/)** | **[Intern, Sponsorship Consulting](https://jobright.ai/jobs/info/6ad14d1ea4f99fef81943743?utm_campaign=1063&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 14 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027](https://jobright.ai/jobs/info/6ad11ed7e2d41540d4a6e614?utm_campaign=1063&utm_source=git)** | Morris Plains, NJ, United States | On Site | Oct 14 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant Intern Job Details / Janus Henderson Investors](https://jobright.ai/jobs/info/6acfe9f978d51ae69ce08db6?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 14 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Specialty Engineering and Consulting Intern](https://jobright.ai/jobs/info/6acfdf68c9f40bec907fe87d?utm_campaign=1063&utm_source=git)** | Wheat Ridge, CO, United States | On Site | Oct 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 11 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91be0d9864261ccd29ebfd?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 11 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc28e59685453376de2?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 11 |
-| ↳ | **[2027 Cybersecurity & Cloud and Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6a91abc2d18f756748279445?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
