@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elire](http://www.elire.com)** | **[Summer 2027 AI Data Science Consulting Internship](https://jobright.ai/jobs/info/6ad32dd15290d4375c456266?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 17 |
+| ↳ | **[Summer 2027 AI Full Stack Developer Consulting Intern](https://jobright.ai/jobs/info/6ad32dc825289a0b3bf59e36?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 17 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Finance Transformation Intern - Atlanta](https://jobright.ai/jobs/info/6aad8a4f6956574eac8b653a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 16 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Science Consultant Intern](https://jobright.ai/jobs/info/6ad29ef2810010ec72f593dd?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
@@ -64,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[The VIOS Clinic](https://viosapp.com)** | **[Intern - Consulting](https://jobright.ai/jobs/info/6ad2aeb125289a0b3bf58437?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 16 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad516d3dbb1f8967cecd37?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 16 |
 | ↳ | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad518c2e757fcb5c8b7aca?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 16 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Specialty Engineering and Consulting Intern - CSU Career Fair](https://jobright.ai/jobs/info/6aa1a4df3272060a8e3f13c9?utm_campaign=1063&utm_source=git)** | Fort Collins, CO, United States | On Site | Oct 16 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Specialty Engineering and Consulting Intern - CU Boulder](https://jobright.ai/jobs/info/6a90557ba19886486676074c?utm_campaign=1063&utm_source=git)** | Wheat Ridge, CO, United States | On Site | Oct 16 |
 | ↳ | **[Specialty Engineering and Consulting Intern](https://jobright.ai/jobs/info/6acfdf68c9f40bec907fe87d?utm_campaign=1063&utm_source=git)** | Wheat Ridge, CO, United States | On Site | Oct 16 |
-| ↳ | **[Specialty Engineering and Consulting Intern - CU Boulder](https://jobright.ai/jobs/info/6a90557ba19886486676074c?utm_campaign=1063&utm_source=git)** | Wheat Ridge, CO, United States | On Site | Oct 16 |
+| ↳ | **[Specialty Engineering and Consulting Intern - CSU Career Fair](https://jobright.ai/jobs/info/6aa1a4df3272060a8e3f13c9?utm_campaign=1063&utm_source=git)** | Fort Collins, CO, United States | On Site | Oct 16 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Consulting Intern - Spring 2027 (Metairie, LA)](https://jobright.ai/jobs/info/6ad245c3810010ec72f56b73?utm_campaign=1063&utm_source=git)** | Metairie, LA, United States | On Site | Oct 16 |
 | **[Cornerstone Advisors](http://crnrstone.com/)** | **[2027 Consultant Intern  (19514)](https://jobright.ai/jobs/info/6abab6aaee0b348be729b0f1?utm_campaign=1063&utm_source=git)** | Scottsdale, AZ, United States | On Site | Oct 16 |
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a99d5978a8b765bc55f5c88?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 16 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Oct 15 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Oct 15 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6ad11e8e256e49282e652c45?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
-| **[FutureTech Insights](futuretechinsights.net)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ad131f53d3a5aa909b388fc?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Remote | Oct 15 |
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship](https://jobright.ai/jobs/info/6ad0ec3d18608b6f36f7fe16?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marsh People and Investments - Employee Benefits Consulting Co-Op - Toronto - Winter 2027](https://jobright.ai/jobs/info/6ad1109fae21edea94fd32bf?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 15 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Spring Internship 2027](https://jobright.ai/jobs/info/6a96fe0fe4e60e4b8da5b32f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 15 |
@@ -139,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e44ddd23cce28a10ba4?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1cfb3c831dc4086c09ac?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd254f002e496d4bef0df7?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2560a56e5406e57bfeef?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2508d113c967e3c7c6e6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 12 |
-| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd25233c831dc4086c0db5?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 12 |
+| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2560a56e5406e57bfeef?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 12 |
 | ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e56a56e5406e57bfb63?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 12 |
+| ↳ | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd25233c831dc4086c0db5?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2027](https://jobright.ai/jobs/info/6abc2737a9a644f96568aa36?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Oct 12 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6acd7d65d113c967e3c7e123?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Business Systems Analyst (Summer 2027)](https://jobright.ai/jobs/info/6acd07cbddd23cce28a10450?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
 | ↳ | **[Consulting Internship: Business Systems Analyst (Summer 2027)](https://jobright.ai/jobs/info/6acd07caa56e5406e57bf3d3?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
 | ↳ | **[Consulting Internship: Software Engineering (Summer 2027)](https://jobright.ai/jobs/info/6accea83e7a1d9333210f0cc?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
-| ↳ | **[Consulting Internship: Business Systems Analyst (Summer 2027)](https://jobright.ai/jobs/info/6acd010fe7a1d9333210f799?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
