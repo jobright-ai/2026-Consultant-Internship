@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6ade57b15dc7953215a3b16b?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 25 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/6ac121be8ff3fb9b3bc7d1d0?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 25 |
 | **[PwC](http://pwc.com)** | **[Management Consulting - Sector Operations - Financial Services Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf638cd9621c5b283937f6?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 24 |
 | ↳ | **[Management Consulting - Sales, Service and Marketing Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf63908ff3fb9b3bc77eaa?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 24 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Spaulding Ridge](https://www.spauldingridge.com/)** | **[2027 Summer Campus Consulting Internship](https://jobright.ai/jobs/info/6ac745ba744463a18c931518?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 22 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[D365 Business Central Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ad9128f67bec1d0d9c82fac?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 21 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health and Human Services](https://jobright.ai/jobs/info/6a8ef791382b237ac80c3777?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abc31f2d6acfd3dd29fcb3c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
-| ↳ | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abbf8287119e56191cea6e2?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Oct 21 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abbf3e37119e56191cea3ee?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Oct 21 |
+| ↳ | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abc31f2d6acfd3dd29fcb3c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6abd4670372c01f6cd71f882?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 21 |
 | **[The Hartford](https://www.thehartford.com)** | **[2027 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/6ad7c06454bbabbab0701e40?utm_campaign=1063&utm_source=git)** | Wayne, PA, United States | Hybrid | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6abd45dc372c01f6cd71f841?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 21 |
