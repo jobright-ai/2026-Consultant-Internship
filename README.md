@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6adfbafb5dc7953215a42393?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 27 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Dallas - Fort Worth Metroplex, Texas](https://jobright.ai/jobs/info/6ac41e36d9621c5b2839fc02?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 27 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Detroit, Michigan](https://jobright.ai/jobs/info/6ac40587372c01f6cd7336ae?utm_campaign=1063&utm_source=git)** | Detroit, MI, United States | On Site | Oct 27 |
 | **[IBM](http://www.ibm.com)** | **[Strategy Consultant Intern 2027](https://jobright.ai/jobs/info/6ada1c44950ef68d518540a3?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 27 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf63930e027c0f3b39d030?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
 | ↳ | **[Strategy& Strategy Consulting Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf638ed9621c5b283937f7?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
 | ↳ | **[Financial Crimes Unit Consulting Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf638e0e027c0f3b39d02e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
-| ↳ | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
+| ↳ | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern - Financial and Planning Group (Summer 2027)](https://jobright.ai/jobs/info/6abee1e5064da25272e0395f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | ↳ | **[Energy Consulting Intern - Strategic Advisory Services (Summer 2027)](https://jobright.ai/jobs/info/6abee1e18ff3fb9b3bc768a6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[RCLCO](https://www.rclco.com)** | **[2027 Summer Intern, Real Estate Economics & Consulting](https://jobright.ai/jobs/info/6ac927dbfcdafb60c6a4b091?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship Job Details / Belden Inc](https://jobright.ai/jobs/info/6ad8ef5ab0725dc268dd75b8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 21 |
 | **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Nuclear Digital Consulting Intern](https://jobright.ai/jobs/info/6a677b635d2a117fb9ceb96d?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Remote | Oct 21 |
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Business Central Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ad8d99b950ef68d5184ac3e?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
