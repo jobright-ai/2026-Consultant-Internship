@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant Intern Job Details / Janus Henderson Investors](https://jobright.ai/jobs/info/6acfe9f978d51ae69ce08db6?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 27 |
+| **[Marsh People Solutions](http://www.mercer.com)** | **[Environmental Consulting and Risk Management Intern](https://jobright.ai/jobs/info/6ac46b59064da25272e12957?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 27 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
 | **[Visa](https://www.visa.com)** | **[Consulting & Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6ae0354d065c4e77efafe7d3?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6ae0146b9e3e874dbfbb293b?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 26 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Technology Consulting Intern - 2027](https://jobright.ai/jobs/info/6a95ab244c22023a07934f4d?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[D365 Business Central Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ad9128f67bec1d0d9c82fac?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 21 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://berrydunn.com)** | **[Summer 2027 Consulting Internship - Health and Human Services](https://jobright.ai/jobs/info/6a8ef791382b237ac80c3777?utm_campaign=1063&utm_source=git)** | Portland, ME, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abc31f2d6acfd3dd29fcb3c?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
-| ↳ | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abbf3e37119e56191cea3ee?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Oct 21 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abbf8287119e56191cea6e2?utm_campaign=1063&utm_source=git)** | Plano, TX, United States | On Site | Oct 21 |
+| ↳ | **[Summer 2027 Intern, Abandoned and Unclaimed Property Consulting](https://jobright.ai/jobs/info/6abc2d507119e56191cebf6d?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6abd4670372c01f6cd71f882?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 21 |
 | **[The Hartford](https://www.thehartford.com)** | **[2027 Summer Intern - Investment Consulting Group](https://jobright.ai/jobs/info/6ad7c06454bbabbab0701e40?utm_campaign=1063&utm_source=git)** | Wayne, PA, United States | Hybrid | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6abd45dc372c01f6cd71f841?utm_campaign=1063&utm_source=git)** | Irvine, CA, United States | Hybrid | Oct 21 |
@@ -143,8 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Business Central Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6ad8d99b950ef68d5184ac3e?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 20 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6ad028612cc4e9d17e90c3d1?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 20 |
-| **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 20 |
-| ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b252aa6152bb69e8a9?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 20 |
-| ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 20 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6ad7b152950ef68d51842d08?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
