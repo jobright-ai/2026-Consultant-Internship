@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://jobright.ai/jobs/info/6ac41e24372c01f6cd734101?utm_campaign=1063&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 27 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Internal Sales Consultant Intern Job Details / Janus Henderson Investors](https://jobright.ai/jobs/info/6acfe9f978d51ae69ce08db6?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 27 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Environmental Consulting and Risk Management Intern](https://jobright.ai/jobs/info/6ac46b59064da25272e12957?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 27 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
