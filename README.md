@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9d8723387a3d9b67d7632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab619b5c6fe0dec811a4425?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf63930e027c0f3b39d030?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
 | ↳ | **[Strategy& Strategy Consulting Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf638ed9621c5b283937f7?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
 | ↳ | **[Financial Crimes Unit Consulting Senior Associate Intern - Summer 2027](https://jobright.ai/jobs/info/6abf638e0e027c0f3b39d02e?utm_campaign=1063&utm_source=git)** | Rosemont, IL, United States | On Site | Oct 23 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
-| ↳ | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
+| ↳ | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern - Financial and Planning Group (Summer 2027)](https://jobright.ai/jobs/info/6abee1e5064da25272e0395f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | ↳ | **[Energy Consulting Intern - Strategic Advisory Services (Summer 2027)](https://jobright.ai/jobs/info/6abee1e18ff3fb9b3bc768a6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[RCLCO](https://www.rclco.com)** | **[2027 Summer Intern, Real Estate Economics & Consulting](https://jobright.ai/jobs/info/6ac927dbfcdafb60c6a4b091?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
