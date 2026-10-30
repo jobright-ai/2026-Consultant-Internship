@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Valorantum Capital](valorantumcapital.com)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6ae4ca1677c09cb3bd4aeba8?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 30 |
 | **[Curinos](https://curinos.com/)** | **[Summer Associate Consultant (Intern)](https://jobright.ai/jobs/info/6adf945e5dc7953215a4075b?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – Internship](https://jobright.ai/jobs/info/6aa18bf2500b01124c77d3c7?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
@@ -81,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 29 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marsh Risk Early Career Program, Summer Intern 2027 – Emerging Risks, NYC and Chicago](https://jobright.ai/jobs/info/6ae3bb52fb2cd420ace53a8c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6ae39383c3139b475b5ae5ba?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 28 |
-| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
-| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship Job Details / Belden Inc](https://jobright.ai/jobs/info/6ad8ef5ab0725dc268dd75b8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6ae264886679108488c4af8e?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Oct 28 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6ae258cc6679108488c4a3e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Oct 28 |
@@ -136,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6adc7eb346a8cabdc1ff755d?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Oct 24 |
 | ↳ | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6adc7b0e46a8cabdc1ff746c?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Oct 24 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Associate 2027](https://jobright.ai/jobs/info/6ac988d7d4a5a03707412aa7?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[RSM Canada](https://rsmcanada.com/)** | **[Business Intelligence Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6adc08c05dc7953215a35b20?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
