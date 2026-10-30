@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 30 |
 | **[Curinos](https://curinos.com/)** | **[Summer Associate Consultant (Intern)](https://jobright.ai/jobs/info/6adf945e5dc7953215a4075b?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – Internship](https://jobright.ai/jobs/info/6aa18bf2500b01124c77d3c7?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
