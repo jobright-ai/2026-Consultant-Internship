@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 30 |
 | **[Curinos](https://curinos.com/)** | **[Summer Associate Consultant (Intern)](https://jobright.ai/jobs/info/6adf945e5dc7953215a4075b?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – Internship](https://jobright.ai/jobs/info/6aa18bf2500b01124c77d3c7?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae46f82d7424a2a828e637f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 30 |
@@ -91,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Consulting Intern](https://jobright.ai/jobs/info/6ae45a7977c09cb3bd4ac18b?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobright.ai/jobs/info/6ac51ec3064da25272e14d9a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9d8723387a3d9b67d7632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6adfbafb5dc7953215a42393?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 27 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6adc7b0e46a8cabdc1ff746c?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Oct 24 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Associate 2027](https://jobright.ai/jobs/info/6ac988d7d4a5a03707412aa7?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Business Intelligence Consulting Intern - Summer 2027](https://jobright.ai/jobs/info/6adc08c05dc7953215a35b20?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 23 |
-| **[Alta Genetics](https://www.altagenetics.com)** | **[Farm Performance Consultant Intern (Texas)](https://jobright.ai/jobs/info/6adb950f46a8cabdc1ff3b08?utm_campaign=1063&utm_source=git)** | Texas, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
