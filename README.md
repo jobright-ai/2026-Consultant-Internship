@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae46f82d7424a2a828e637f?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 30 |
 | **[Oracle](https://www.oracle.com/)** | **[NetSuite ERP Functional Consultant SkillBridge Fellow](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Continental United States, United States | Remote | Oct 30 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027](https://jobright.ai/jobs/info/6ac7cfb60e573df8adc74604?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2027](https://jobright.ai/jobs/info/6ae3e6cbc3139b475b5b1127?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 29 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 29 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marsh Risk Early Career Program, Summer Intern 2027 – Emerging Risks, NYC and Chicago](https://jobright.ai/jobs/info/6ae3bb52fb2cd420ace53a8c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6ae39383c3139b475b5ae5ba?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 28 |
-| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
-| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship Job Details / Belden Inc](https://jobright.ai/jobs/info/6ad8ef5ab0725dc268dd75b8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6ae264886679108488c4af8e?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Oct 28 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6ae258cc6679108488c4a3e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Oct 28 |
@@ -149,9 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern - Financial and Planning Group (Summer 2027)](https://jobright.ai/jobs/info/6abee1e5064da25272e0395f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
 | ↳ | **[Energy Consulting Intern - Strategic Advisory Services (Summer 2027)](https://jobright.ai/jobs/info/6abee1e18ff3fb9b3bc768a6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 23 |
-| **[RCLCO](https://www.rclco.com)** | **[2027 Summer Intern, Real Estate Economics & Consulting](https://jobright.ai/jobs/info/6ac927dbfcdafb60c6a4b091?utm_campaign=1063&utm_source=git)** | Austin, TX, United States | On Site | Oct 23 |
-| **[Alta Genetics](https://www.altagenetics.com)** | **[Farm Performance Consultant Intern (Wisconsin)](https://jobright.ai/jobs/info/6adb951346a8cabdc1ff3b0e?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | Hybrid | Oct 23 |
-| **[URUS Group](https://www.urus.org)** | **[Farm Performance Consultant Intern (Wisconsin)](https://jobright.ai/jobs/info/6adb947946a8cabdc1ff3adf?utm_campaign=1063&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 23 |
-| ↳ | **[Farm Performance Consultant Intern (Texas)](https://jobright.ai/jobs/info/6adb947246a8cabdc1ff3add?utm_campaign=1063&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 23 |
-| **[The MJ Companies](https://themjcos.com)** | **[Risk Management Rotational Intern](https://jobright.ai/jobs/info/6a91a4df9864261ccd29df79?utm_campaign=1063&utm_source=git)** | Carmel, IN, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
