@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
 | **[DB E.C.O. North America](https://db-eco.us)** | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae516eac3139b475b5b8b7e?utm_campaign=1063&utm_source=git)** | Laguna Niguel, CA, United States | On Site | Oct 30 |
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae51578fb2cd420ace5c9a6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 30 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
-| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6aac358f3e3ce93970c7c55c?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 30 |
 | **[Curinos](https://curinos.com/)** | **[Summer Associate Consultant (Intern)](https://jobright.ai/jobs/info/6adf945e5dc7953215a4075b?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Consulting & Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6ae0354d065c4e77efafe7d3?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 27 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 26 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6ae0146b9e3e874dbfbb293b?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 26 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027](https://jobright.ai/jobs/info/6adfc0a9c5c64fa3d9cbf304?utm_campaign=1063&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 26 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Healthcare Analytics Summer Intern - Morris Plains, NJ - Start Date: May 24, 2027](https://jobright.ai/jobs/info/6ae3a1abeab1f96730975d0f?utm_campaign=1063&utm_source=git)** | Morris Plains, NJ, United States | On Site | Oct 26 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a9eb51568f82b403673b394?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 26 |
 | **[John Burns Research and Consulting](https://www.realestateconsulting.com)** | **[Summer 2027 Internship - Building Products Consulting](https://jobright.ai/jobs/info/6adfd853c5c64fa3d9cc03ce?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 26 |
