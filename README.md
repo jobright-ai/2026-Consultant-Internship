@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[True Northon](https://www.linkedin.com/company/108612821)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae61d59eab1f96730982ed4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 31 |
+| **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
 | **[Veltrana Group](veltranagroup.com)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6ae60be1c3139b475b5bbd67?utm_campaign=1063&utm_source=git)** | United States | Remote | Oct 31 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Hartford, Connecticut](https://jobright.ai/jobs/info/6ac8fcf16355f8776ff16c50?utm_campaign=1063&utm_source=git)** | Hartford, CT, United States | On Site | Oct 31 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae5d58bd7424a2a828ee0c8?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Oct 31 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae5bd0fc3139b475b5bb297?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Oct 31 |
