@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aca6afc002e496d4beec13e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Oct 31 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae61d59eab1f96730982ed4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 31 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Consulting Intern](https://jobright.ai/jobs/info/6ae45a7977c09cb3bd4ac18b?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobright.ai/jobs/info/6ac51ec3064da25272e14d9a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9d8723387a3d9b67d7632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6adfbafb5dc7953215a42393?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 27 |
