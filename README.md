@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aca6afc002e496d4beec13e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Oct 31 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae61d59eab1f96730982ed4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 31 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
@@ -97,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Curinos](https://curinos.com/)** | **[Summer Associate Consultant (Intern)](https://jobright.ai/jobs/info/6adb0eea9e3e874dbfb9e0b9?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2027](https://jobright.ai/jobs/info/6ac1c39a0e027c0f3b3a31ce?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 29 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6aaa965240807b73bd390d77?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 29 |
-| **[Adobe](http://www.adobe.com)** | **[2027 University Graduate - Technical Support Consultant](https://jobright.ai/jobs/info/6ae313c3d7424a2a828ddb60?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
-| ↳ | **[2027 University Graduate - Technical Support Consultant](https://jobright.ai/jobs/info/6ae3241177c09cb3bd4a4066?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
+| **[Adobe](http://www.adobe.com)** | **[2027 University Graduate - Technical Support Consultant](https://jobright.ai/jobs/info/6ae3241177c09cb3bd4a4066?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ac710ccd9621c5b283ab984?utm_campaign=1063&utm_source=git)** | De Forest, WI, United States | On Site | Oct 29 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 29 |
 | **[Intertek](http://www.intertek.com)** | **[Environmental Consulting Internship](https://jobright.ai/jobs/info/6a8d9fbca5639a4810326764?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Oct 29 |
@@ -142,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6adfd1590a4cc7090f983798?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Oct 26 |
 | ↳ | **[Technical Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd2403ddd23cce28a10edb?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2560a56e5406e57bfeef?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Remote | Oct 26 |
-| **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/6ac121be8ff3fb9b3bc7d1d0?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
