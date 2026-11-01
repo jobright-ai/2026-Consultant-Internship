@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aca6afc002e496d4beec13e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Oct 31 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae61d59eab1f96730982ed4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 31 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](https://projxon.com)** | **[Junior Consultant Internship](https://jobright.ai/jobs/info/6ae5b917c3139b475b5bb219?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | Remote | Oct 31 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
 | **[DB E.C.O. North America](https://db-eco.us)** | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae516eac3139b475b5b8b7e?utm_campaign=1063&utm_source=git)** | Laguna Niguel, CA, United States | On Site | Oct 30 |
-| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae51578fb2cd420ace5c9a6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 30 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abad8dd7220f52e62ae89bf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 30 |
@@ -111,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Healthcare Consulting Intern](https://jobright.ai/jobs/info/6ae45a7977c09cb3bd4ac18b?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobright.ai/jobs/info/6ac51ec3064da25272e14d9a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 28 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 28 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9d8723387a3d9b67d7632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6adfbafb5dc7953215a42393?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 27 |
