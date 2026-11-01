@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[Energy Business Advisory Intern](https://jobright.ai/jobs/info/6aca6afc002e496d4beec13e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Remote | Oct 31 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6ae61d59eab1f96730982ed4?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 31 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 31 |
+| **[West Monroe](https://www.westmonroe.com)** | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91a5029864261ccd29df87?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 31 |
+| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abcc3603630099193ada?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcea27a2d3c984892f1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Oct 29 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marsh Risk Early Career Program, Summer Intern 2027 – Emerging Risks, NYC and Chicago](https://jobright.ai/jobs/info/6ae3bb52fb2cd420ace53a8c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 28 |
 | **[Cisco](http://www.cisco.com)** | **[Security Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6ae39383c3139b475b5ae5ba?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 28 |
-| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
-| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae219626679108488c47700?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| ↳ | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6ae2194fde23f466ec8c2964?utm_campaign=1063&utm_source=git)** | Framingham, MA, United States | On Site | Oct 28 |
 | **[Belden Inc.](http://belden.com)** | **[Solution Consulting & Services Internship Job Details / Belden Inc](https://jobright.ai/jobs/info/6ad8ef5ab0725dc268dd75b8?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 28 |
 | **[JESA S.A](https://www.jesagroup.com/)** | **[Strategy Consulting Intern Job Details / JESA Group](https://jobright.ai/jobs/info/6ae264886679108488c4af8e?utm_campaign=1063&utm_source=git)** | Massachusetts, United States | On Site | Oct 28 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6ae258cc6679108488c4a3e0?utm_campaign=1063&utm_source=git)** | Boston, Massachusetts, United States | On Site | Oct 28 |
