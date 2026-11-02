@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 01 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a25e36036300991937c9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6aae9f472e757fcb5c8bbc18?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc7a27a2d3c984892ee?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd7c12c90443efc74e1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5a39864261ccd29dfb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
 | **[Empower](https://www.empower.fi/)** | **[Summer 2027 Intern – Actuarial Benefit Consulting Services](https://jobright.ai/jobs/info/6acb52bea56e5406e57bc1da?utm_campaign=1063&utm_source=git)** | Hartford, CT, United States | On Site | Nov 01 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a6e1360363009919390f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 01 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NetSuite ERP Functional Consultant SkillBridge Fellow](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Continental United States, United States | Remote | Oct 31 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
 | **[DB E.C.O. North America](https://db-eco.us)** | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae516eac3139b475b5b8b7e?utm_campaign=1063&utm_source=git)** | Laguna Niguel, CA, United States | On Site | Oct 30 |
-| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae51578fb2cd420ace5c9a6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
+| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae51578fb2cd420ace5c9a6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 30 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abad8dd7220f52e62ae89bf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 30 |
