@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5478e59685453376b61?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abc7a27a2d3c984892ee?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd7c12c90443efc74e1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
+| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6aae91523d96632d741b122a?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91a505360363009919388a?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5a39864261ccd29dfb5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a8029864261ccd29e061?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
@@ -155,6 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a9eb51568f82b403673b394?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 26 |
 | **[John Burns Research and Consulting](https://www.realestateconsulting.com)** | **[Summer 2027 Internship - Building Products Consulting](https://jobright.ai/jobs/info/6adfd853c5c64fa3d9cc03ce?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 26 |
 | ↳ | **[Summer 2027 Internship - Houston Consulting](https://jobright.ai/jobs/info/6adfd84e9e3e874dbfbb0db2?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Oct 26 |
-| **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA (EG)Management Consulting Services Intern - 2027](https://jobright.ai/jobs/info/6adfd3cb5dc7953215a43526?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 26 |
-| ↳ | **[Solutions, Consulting, & Engineering Intern - 2027](https://jobright.ai/jobs/info/6adfd3ca065c4e77efafbf67?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
