@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae9bcb843826864b0fba729?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 03 |
+| ↳ | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae9b61e32411b3e5a2e1c44?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 03 |
 | **[Arup](http://www.arup.com)** | **[Technical Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6acd2403ddd23cce28a10edb?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[NetSuite ERP Functional Consultant SkillBridge Fellow](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Continental United States, United States | Remote | Oct 31 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 30 |
 | **[DB E.C.O. North America](https://db-eco.us)** | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae516eac3139b475b5b8b7e?utm_campaign=1063&utm_source=git)** | Laguna Niguel, CA, United States | On Site | Oct 30 |
-| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae51578fb2cd420ace5c9a6?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
+| ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 30 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abad8dd7220f52e62ae89bf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 30 |
