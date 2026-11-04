@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a25e36036300991937c9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
-| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a53dd18f7567482791eb?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abc9a27a2d3c984892ef?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
+| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a53dd18f7567482791eb?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91be0d9864261ccd29ebfd?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
