@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6aebb66fa0b134121d99d6b3?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Nov 04 |
-| **[Delta Air Lines](https://www.delta.com)** | **[Intern, Reservations (Spring 2027)](https://jobright.ai/jobs/info/6aebb15765311d97105bb20e?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[Mechronix](mechronix.net)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6aeb7906fbe13dfb53df4641?utm_campaign=1063&utm_source=git)** | Mayfield Heights, OH, United States | On Site | Nov 04 |
 | **[Manatt, Phelps & Phillips, LLP](http://www.manatt.com)** | **[Summer Consultant](https://jobright.ai/jobs/info/6a95d398f28891320e85e46a?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 04 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations, Dulles (Summer 2027)](https://jobright.ai/jobs/info/6aeb6e4f65311d97105b8857?utm_campaign=1063&utm_source=git)** | Washington Dulles International Airport, Virginia, United States | On Site | Nov 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Intern (Rail and Transportation)](https://jobright.ai/jobs/info/6ae515b5fb2cd420ace5c9c6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 30 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Summer Consultant, M&A, 2027](https://jobright.ai/jobs/info/6aad515a3dbb1f8967cecd2f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 30 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abad8dd7220f52e62ae89bf?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
