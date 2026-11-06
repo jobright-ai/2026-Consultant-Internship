@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 06 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 06 |
+| ↳ | **[2027 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98713cdef18223c854f7c4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
+| ↳ | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 06 |
 | ↳ | **[2027 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/6a98714fdd171c72857924a6?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/6a970513e4e60e4b8da5b86b?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 05 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Summer Internship 2027](https://jobright.ai/jobs/info/6a96fe00f5337b2cf731f23b?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 04 |
 | ↳ | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6ab206de191d8c340dbdd89f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 04 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | On Site | Nov 04 |
-| ↳ | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 04 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Integrated and Global Solutions Internship- Fall 2027](https://jobright.ai/jobs/info/6ab192adf9692ca98b04a693?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | ↳ | **[Early Careers: Corporate Risk and Broking (CRB)- Internship - Risk & Analytics Enterprise Risk Consulting - New York - 2027](https://jobright.ai/jobs/info/6acea00c4391691a335adcec?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
 | **[VaultBio](https://vaultbio.com)** | **[Consulting Summer Intern](https://jobright.ai/jobs/info/6aea895b913589212b1f7d03?utm_campaign=1063&utm_source=git)** | San Diego, CA, United States | On Site | Nov 03 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abd0c12c90443efc74de?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 CIO Advisory Consulting Intern](https://jobright.ai/jobs/info/6a91abccc12c90443efc74dd?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 01 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad42fa2e757fcb5c8b7593?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 01 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6aad521f2e757fcb5c8b7ade?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | On Site | Nov 01 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a25e36036300991937c9?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abcba27a2d3c984892f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91abc9a27a2d3c984892ef?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91abc1d18f756748279443?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91ac118e59685453376dfd?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 31 |
-| ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
