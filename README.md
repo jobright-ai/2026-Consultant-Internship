@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98713cdef18223c854f7c4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 07 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac94ba1d4a5a03707411b3d?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 06 |
 | ↳ | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac94babfcdafb60c6a4bb98?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 06 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8fc36036300991939f2?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 06 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Consulting Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a99d5978a8b765bc55f5c88?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 06 |
-| ↳ | **[2027 Risk and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98713cdef18223c854f7c4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | ↳ | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 06 |
 | ↳ | **[2027 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/6a98714fdd171c72857924a6?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
 | ↳ | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
-| ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
+| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 02 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2027)](https://jobright.ai/jobs/info/6ae8b99e03f4a1104b255898?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91abd69864261ccd29e1f5?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 02 |
@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Utilities Consulting Intern](https://jobright.ai/jobs/info/6a91a51bd18f7567482791db?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 31 |
 | ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abd1a27a2d3c984892f3?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 31 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6abeb9fc372c01f6cd7251a8?utm_campaign=1063&utm_source=git)** | Irving, TX, United States | Hybrid | Oct 31 |
-| **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
