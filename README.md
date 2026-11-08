@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Co-Op Security Consultant 2027](https://jobright.ai/jobs/info/6a9e252ba7ba386c5d670e21?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Nov 08 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Mechanical Section](https://jobright.ai/jobs/info/6a99f07e90a313642c653a92?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 08 |
+| ↳ | **[Grid Interconnection Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99c8a190a313642c652c0c?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 08 |
 | **[IBM](http://www.ibm.com)** | **[Intern Package Consultant - Salesforce 2027](https://jobright.ai/jobs/info/6af07aac8022f8ddd31a1788?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 08 |
 | ↳ | **[Intern Package Consultant 2027 - Salesforce](https://jobright.ai/jobs/info/6a9e2d53a7ba386c5d670ebb?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 08 |
 | ↳ | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e26572c964816f65ebcea?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Nov 08 |
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | State College, PA, United States | On Site | Nov 08 |
 | ↳ | **[Intern Consultant Oracle Cloud 2027](https://jobright.ai/jobs/info/6af077639f8e479a8bd0042b?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 08 |
-| **[Veltrana Group](veltranagroup.com)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6af05ec78022f8ddd31a136f?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 08 |
 | ↳ | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 08 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 07 |
@@ -133,13 +135,12 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
 | ↳ | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
-| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
+| ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 02 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2027)](https://jobright.ai/jobs/info/6ae8b99e03f4a1104b255898?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91abd69864261ccd29e1f5?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 02 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd79864261ccd29e1f6?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91bdc0d18f756748279e43?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Banking Consulting Intern](https://jobright.ai/jobs/info/6a91abc73603630099193ad6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 01 |
-| ↳ | **[2027 Mergers & Acquisitions Consulting Intern](https://jobright.ai/jobs/info/6a91a52736036300991938a6?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
