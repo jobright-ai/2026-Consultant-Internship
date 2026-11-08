@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.com)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6af05ec78022f8ddd31a136f?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 08 |
 | ↳ | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 08 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6af039f28022f8ddd31a0c70?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 08 |
-| **[Corevanta Labs](corevantalabs.net)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6aef73f17bf8e8b9eaf7fadd?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | Remote | Nov 07 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e267a2c964816f65ebcfd?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 07 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 07 |
@@ -127,10 +126,10 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 03 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: Software Engineering (Summer 2027)](https://jobright.ai/jobs/info/6accdf82ddd23cce28a0f844?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Nov 03 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
-| **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| ↳ | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
-| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
+| **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
+| ↳ | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
+| ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 02 |
 | **[CapTech](http://www.captechconsulting.com)** | **[Consulting Internship: UX/Product Design (Summer 2027)](https://jobright.ai/jobs/info/6ae8b99e03f4a1104b255898?utm_campaign=1063&utm_source=git)** | Richmond, VA, United States | On Site | Nov 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91abd69864261ccd29e1f5?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 02 |
