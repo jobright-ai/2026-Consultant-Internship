@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lake Superior Consulting](https://www.lsconsulting.com/)** | **[Help Desk Intern Job Details / Lake Superior Consulting](https://jobright.ai/jobs/info/6af233f30cb834dad9324f63?utm_campaign=1063&utm_source=git)** | Duluth, MN, United States | On Site | Nov 09 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 09 |
 | **[IBM](http://www.ibm.com)** | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e252768f82b4036738c0a?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Nov 09 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 09 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 09 |
 | ↳ | **[Intern Application Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a9e2d3927c94c3d5a1cb627?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 09 |
 | ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 09 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af17f4e9cd5f643bc50027b?utm_campaign=1063&utm_source=git)** | Mayfield Heights, OH, United States | Remote | Nov 09 |
+| **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6af235e21aaffa49f7382bd1?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Nov 08 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Technology Assurance Summer Intern](https://jobright.ai/jobs/info/6af20b6c62fb9f5fcd893081?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 08 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e289075edfa11b47106a5?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Nov 08 |
 | ↳ | **[Intern Security Consultant - Cyber Strategy & Risk 2027](https://jobright.ai/jobs/info/6af095cc40b5de2d2b314820?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 08 |
