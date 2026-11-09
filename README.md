@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 09 |
+| **[IBM](http://www.ibm.com)** | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e252768f82b4036738c0a?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Nov 09 |
+| ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 09 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 09 |
 | ↳ | **[Intern Application Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a9e2d3927c94c3d5a1cb627?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 09 |
 | ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 09 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af17f4e9cd5f643bc50027b?utm_campaign=1063&utm_source=git)** | Mayfield Heights, OH, United States | Remote | Nov 09 |
@@ -96,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://jobright.ai/jobs/info/6aee0380caf8e660b87d97bd?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 06 |
 | **[Capco](http://www.capco.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6aee1aa1d20350c7a5078679?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Paylocity](http://www.paylocity.com)** | **[Implementation Consultant Intern](https://jobright.ai/jobs/info/6aee1dbb5c81f621d3111da6?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Nov 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedf3ebbd2f33eea72d554d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedfe765c81f621d3110167?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6ad13f61e2d41540d4a6f606?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
@@ -144,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
 | ↳ | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
-| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
