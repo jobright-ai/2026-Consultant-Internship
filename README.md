@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 09 |
+| ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 09 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af17f4e9cd5f643bc50027b?utm_campaign=1063&utm_source=git)** | Mayfield Heights, OH, United States | Remote | Nov 09 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern - Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6a9e289075edfa11b47106a5?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Nov 08 |
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6af09cfe7bf8e8b9eaf8309e?utm_campaign=1063&utm_source=git)** | Durham, NC, United States | On Site | Nov 08 |
@@ -72,8 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Security Consultant 2027 - Strategy, Risk & Compliance](https://jobright.ai/jobs/info/6a9e26572c964816f65ebcea?utm_campaign=1063&utm_source=git)** | University Park, PA, United States | On Site | Nov 08 |
 | ↳ | **[Co-op Business Transformation Consultant 2027](https://jobright.ai/jobs/info/6a9e267927c94c3d5a1cb598?utm_campaign=1063&utm_source=git)** | State College, PA, United States | On Site | Nov 08 |
 | ↳ | **[Intern Consultant Oracle Cloud 2027](https://jobright.ai/jobs/info/6af077639f8e479a8bd0042b?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 08 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 08 |
-| ↳ | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 08 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern (Summer 2027) - Electrical Section](https://jobright.ai/jobs/info/6a99f079551435518ebf2213?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e267a2c964816f65ebcfd?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 07 |
 | ↳ | **[Intern Package Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a9e2d4a27c94c3d5a1cb632?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 07 |
@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: ADML Insurance & Financial Consulting Internship - Northeast - Summer 2027](https://jobright.ai/jobs/info/6acde2e43df789c1198a47bd?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Engagement Manager Intern- National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee5c6c51033758f4450f?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
 | ↳ | **[Associate Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ae8ee46777c336eb6d67b69?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 02 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
-| ↳ | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 02 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 02 |
+| ↳ | **[Consulting Intern - Transactions](https://jobright.ai/jobs/info/6aea4cf6913589212b1f5a16?utm_campaign=1063&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
