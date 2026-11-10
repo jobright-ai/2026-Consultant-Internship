@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 10 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/6af2dfd710c7aed7786160f8?utm_campaign=1063&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/6ad62e3654bbabbab06f5289?utm_campaign=1063&utm_source=git)** | Gig Harbor, WA, United States | On Site | Nov 10 |
