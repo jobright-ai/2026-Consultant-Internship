@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/6af2dfd710c7aed7786160f8?utm_campaign=1063&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6adfd1590a4cc7090f983798?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Technology Assurance Summer Intern](https://jobright.ai/jobs/info/6af20b6c62fb9f5fcd893081?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 09 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 09 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 09 |
 | ↳ | **[Intern Application Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a9e2d3927c94c3d5a1cb627?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 09 |
 | ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 09 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af17f4e9cd5f643bc50027b?utm_campaign=1063&utm_source=git)** | Mayfield Heights, OH, United States | Remote | Nov 09 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 03 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b252aa6152bb69e8a9?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 03 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 03 |
-| **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e63e7a1d93332110186?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
