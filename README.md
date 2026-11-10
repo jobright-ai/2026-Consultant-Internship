@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6adfd1590a4cc7090f983798?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2027 Technology Assurance Summer Intern](https://jobright.ai/jobs/info/6af20b6c62fb9f5fcd893081?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Nov 09 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027](https://jobright.ai/jobs/info/6acdbb8809635d4ede00ac57?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 09 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://jobright.ai/jobs/info/6aee0380caf8e660b87d97bd?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 06 |
 | **[Capco](http://www.capco.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6aee1aa1d20350c7a5078679?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Paylocity](http://www.paylocity.com)** | **[Implementation Consultant Intern](https://jobright.ai/jobs/info/6aee1dbb5c81f621d3111da6?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Nov 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedf3ebbd2f33eea72d554d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedfd42caf8e660b87d91bd?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6ad13f61e2d41540d4a6f606?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b252aa6152bb69e8a9?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 03 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 03 |
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e63e7a1d93332110186?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 03 |
-| **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6acd7d65d113c967e3c7e123?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
