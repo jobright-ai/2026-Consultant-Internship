@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af3760e769e9374033c68a2?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Nov 10 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 10 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/6af2dfd710c7aed7786160f8?utm_campaign=1063&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
-| **[HDR](http://www.hdrinc.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/6ad62e3654bbabbab06f5289?utm_campaign=1063&utm_source=git)** | Gig Harbor, WA, United States | On Site | Nov 10 |
+| **[HDR](http://www.hdrinc.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/6ad647f667bec1d0d9c6cde8?utm_campaign=1063&utm_source=git)** | Gig Harbor, WA, United States | On Site | Nov 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/6ad62d4967bec1d0d9c6bd26?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 10 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6adfd1590a4cc7090f983798?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
