@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4c17c81de7a524c1fbb?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
+| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4a8f6053e296fc7f034?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6af31236f6053e296fc790c5?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 10 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af3760e769e9374033c68a2?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Nov 10 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Consulting Intern - Delivery](https://jobright.ai/jobs/info/6aea145e897466e69e31b4be?utm_campaign=1063&utm_source=git)** | Charlotte, TX, United States | On Site | Nov 10 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
@@ -108,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://jobright.ai/jobs/info/6aee0380caf8e660b87d97bd?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 06 |
 | **[Capco](http://www.capco.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6aee1aa1d20350c7a5078679?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Paylocity](http://www.paylocity.com)** | **[Implementation Consultant Intern](https://jobright.ai/jobs/info/6aee1dbb5c81f621d3111da6?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Nov 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedfe765c81f621d3110167?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedf3ebbd2f33eea72d554d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6ad13f61e2d41540d4a6f606?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
