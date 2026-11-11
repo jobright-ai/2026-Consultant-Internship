@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Nuclear Digital Consulting Intern](https://jobright.ai/jobs/info/6a677b635d2a117fb9ceb96d?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Remote | Nov 11 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Full Stack Developer Consulting Intern](https://jobright.ai/jobs/info/6af4053350da4f72009243e4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4a8f6053e296fc7f034?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[IP, Valuation & Management Consulting Internship – Summer 2027 (Ocean Tomo, a part of J.S. Held)](https://jobright.ai/jobs/info/6aa9c4b7eff87f571fc9b607?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 10 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Data Science Consulting Internship](https://jobright.ai/jobs/info/6af3955b10c7aed77861bf42?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Miebach](http://www.miebach.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a9044512e254e06fb9efdb7?utm_campaign=1063&utm_source=git)** | Fishers, IN, United States | On Site | Nov 10 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6a9e266827c94c3d5a1cb591?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 09 |
 | ↳ | **[Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](https://jobright.ai/jobs/info/6a9e3af02c964816f65ec12e?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 09 |
 | ↳ | **[Intern Application Consultant 2027 – Microsoft](https://jobright.ai/jobs/info/6a9e2d3927c94c3d5a1cb627?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
+| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2028 National Tax Office - M&A Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ed49c24314c35f97d99?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 09 |
 | ↳ | **[2028 National Tax Office - Federal Tax Consulting Intern](https://jobright.ai/jobs/info/6a9b1ec02cdc5958f53eaeb0?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 09 |
 | **[Leidos](https://www.leidos.com)** | **[Energy & Infrastructure Consulting Summer Intern](https://jobright.ai/jobs/info/6af235e21aaffa49f7382bd1?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Nov 08 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://jobright.ai/jobs/info/6aee0380caf8e660b87d97bd?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 06 |
 | **[Capco](http://www.capco.com)** | **[Technical Consulting Intern](https://jobright.ai/jobs/info/6aee1aa1d20350c7a5078679?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Paylocity](http://www.paylocity.com)** | **[Implementation Consultant Intern](https://jobright.ai/jobs/info/6aee1dbb5c81f621d3111da6?utm_campaign=1063&utm_source=git)** | Rochester, NY, United States | On Site | Nov 06 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedfe765c81f621d3110167?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6aedf3ebbd2f33eea72d554d?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Intern Application Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6ad10448ae21edea94fd2d06?utm_campaign=1063&utm_source=git)** | Research Triangle Park, North Carolina, United States | On Site | Nov 06 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 CFO Advisory Consulting Intern](https://jobright.ai/jobs/info/6ad13f61e2d41540d4a6f606?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 06 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
