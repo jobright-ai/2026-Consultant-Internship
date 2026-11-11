@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
-| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
+| **[Charles River Associates](http://www.crai.com)** | **[Cyber and Forensic Technology Consulting Analyst/Associate Intern - Fleming Internship Program](https://jobright.ai/jobs/info/6ae250b36679108488c49e4b?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6ab2cda78254c44790e5775a?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
+| ↳ | **[2027 Intern - Solutions Consulting Analyst](https://jobright.ai/jobs/info/6aa03826dbc0e60e37e0c01e?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/6af4a147cd7be4db20d87083?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
 | **[exacare ai](https://www.exacare.com/)** | **[Solutions Consultant Intern (Summer 2027)](https://jobright.ai/jobs/info/6af47e87cd7be4db20d85988?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
 | **[The Big Picture Project](thebigpictureproject.ca)** | **[Startup intern](https://jobright.ai/jobs/info/6af4770e2278454e18c355bb?utm_campaign=1063&utm_source=git)** | British Columbia, Canada | On Site | Nov 11 |
 | **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Nuclear Digital Consulting Intern](https://jobright.ai/jobs/info/6a677b635d2a117fb9ceb96d?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Remote | Nov 11 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Full Stack Developer Consulting Intern](https://jobright.ai/jobs/info/6af4053350da4f72009243e4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4c17c81de7a524c1fbb?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Data Science Consulting Internship](https://jobright.ai/jobs/info/6af3955b10c7aed77861bf42?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Miebach](http://www.miebach.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a9044512e254e06fb9efdb7?utm_campaign=1063&utm_source=git)** | Fishers, IN, United States | On Site | Nov 10 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Managed IT Services Service Desk Consulting Intern - Winter 2027](https://jobright.ai/jobs/info/6af49a9f2278454e18c368db?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 10 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6af31236f6053e296fc790c5?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 10 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6ad5deb1950ef68d5183306c?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Celonis](https://www.celonis.com)** | **[Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://jobright.ai/jobs/info/6af2dfd710c7aed7786160f8?utm_campaign=1063&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 10 |
-| **[HDR](http://www.hdrinc.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/6ad62e3654bbabbab06f5289?utm_campaign=1063&utm_source=git)** | Gig Harbor, WA, United States | On Site | Nov 10 |
+| **[HDR](http://www.hdrinc.com)** | **[Advisory Services Intern](https://jobright.ai/jobs/info/6ad63c0b54bbabbab06f5a1e?utm_campaign=1063&utm_source=git)** | Gig Harbor, WA, United States | On Site | Nov 10 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Winter Outsourced Finance and Accounting Consultant Intern](https://jobright.ai/jobs/info/6ad62d4967bec1d0d9c6bd26?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 10 |
 | **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Data, Analytics & AI Consulting Intern - Atlanta](https://jobright.ai/jobs/info/6aa87c0b930bff471a2a79df?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 09 |
 | **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6adfd1590a4cc7090f983798?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
