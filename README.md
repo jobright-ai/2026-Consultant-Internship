@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6af5c5aff10ae27369e1376b?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Nov 12 |
 | **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship - Consulting Intern, Spend Insights & Services](https://jobright.ai/jobs/info/6af48c19cbd2ee75d155aa5c?utm_campaign=1063&utm_source=git)** | Irving, TX, United States | On Site | Nov 12 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ae5077ed7424a2a828eb0eb?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af55d6736c61b4fbd77084c?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 11 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[exacare ai](https://www.exacare.com/)** | **[Solutions Consultant Intern (Summer 2027)](https://jobright.ai/jobs/info/6af47e87cd7be4db20d85988?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
 | **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Nuclear Digital Consulting Intern](https://jobright.ai/jobs/info/6a677b635d2a117fb9ceb96d?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Remote | Nov 11 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Full Stack Developer Consulting Intern](https://jobright.ai/jobs/info/6af4053350da4f72009243e4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
+| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4c17c81de7a524c1fbb?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6af52df9cbd2ee75d155fd53?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 10 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Data Science Consulting Internship](https://jobright.ai/jobs/info/6af3955b10c7aed77861bf42?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
 | **[Miebach](http://www.miebach.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a9044512e254e06fb9efdb7?utm_campaign=1063&utm_source=git)** | Fishers, IN, United States | On Site | Nov 10 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Regulatory Compliance Consultant Intern](https://jobright.ai/jobs/info/6a98714fdd171c72857924a6?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 06 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/6a970513e4e60e4b8da5b86b?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 05 |
-| **[Aperture LLC](https://www.aperturellc.com/)** | **[Intern - Construction Consultant](https://jobright.ai/jobs/info/6ada76eb03d2da7528915a94?utm_campaign=1063&utm_source=git)** | Denver, CO, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
