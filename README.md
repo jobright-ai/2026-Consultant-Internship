@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SC&H](http://www.schgroup.com)** | **[Summer 2027 Intern - Financial Consultant](https://jobright.ai/jobs/info/6afc770a1e98d304ea7f10c0?utm_campaign=1063&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Dallas - Fort Worth Metroplex, Texas](https://jobright.ai/jobs/info/6ac41e36d9621c5b2839fc02?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 17 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://jobright.ai/jobs/info/6ac41e24372c01f6cd734101?utm_campaign=1063&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 17 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6afc4f65755d7cdf657ff9ba?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 17 |
@@ -133,10 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2028 Grads)](https://jobright.ai/jobs/info/6aec706c3a3fa7f03ea867f0?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Nuclear Digital Consulting Intern](https://jobright.ai/jobs/info/6a677b635d2a117fb9ceb96d?utm_campaign=1063&utm_source=git)** | Ontario, Canada | Remote | Nov 11 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Full Stack Developer Consulting Intern](https://jobright.ai/jobs/info/6af4053350da4f72009243e4?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
-| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af392017c81de7a524c0f76?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6af3a4c17c81de7a524c1fbb?utm_campaign=1063&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 10 |
 | ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/6af391f4769e9374033c7c24?utm_campaign=1063&utm_source=git)** | Kitchener, ON, Canada | Hybrid | Nov 10 |
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Consultant Intern – SAP 2027](https://jobright.ai/jobs/info/6af52df9cbd2ee75d155fd53?utm_campaign=1063&utm_source=git)** | Columbia, SC, United States | On Site | Nov 10 |
 | **[Elire](http://www.elire.com)** | **[Summer 2027 AI Data Science Consulting Internship](https://jobright.ai/jobs/info/6af3955b10c7aed77861bf42?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Nov 10 |
-| **[Celestica](https://www.celestica.com)** | **[Student Intern, Analytics Centre of Excellence Job Details / Celestica International LP](https://jobright.ai/jobs/info/6afac7d19331e23f79cde030?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
-| ↳ | **[Student Intern, Analytics Centre of Excellence](https://jobright.ai/jobs/info/6af7ee8235427cce9bb2afbf?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
