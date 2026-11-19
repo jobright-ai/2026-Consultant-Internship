@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6afcea0994232f5ac42d330a?utm_campaign=1063&utm_source=git)** | Pleasanton, CA, United States | Hybrid | Nov 19 |
+| ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6af6676a80054650a5e7ebb8?utm_campaign=1063&utm_source=git)** | Pasadena, California, United States | Hybrid | Nov 19 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 19 |
 | **[Intertek](http://www.intertek.com)** | **[Environmental Consulting Internship](https://jobright.ai/jobs/info/6a8d9fbca5639a4810326764?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Nov 19 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6afeb9841c42ea8f6b9fb477?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Attain Partners](http://www.attain.com/)** | **[Summer 2027 Consulting Intern](https://jobright.ai/jobs/info/6afc952271a21a7b1375f1fa?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | Hybrid | Nov 17 |
 | ↳ | **[Summer 2027 Consulting Intern](https://jobright.ai/jobs/info/6afc94d9693f8cfb490ae072?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | Hybrid | Nov 17 |
 | **[SC&H](http://www.schgroup.com)** | **[Summer 2027 Intern - Financial Consultant](https://jobright.ai/jobs/info/6afc770a1e98d304ea7f10c0?utm_campaign=1063&utm_source=git)** | Hunt Valley, MD, United States | On Site | Nov 17 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6afcea0994232f5ac42d330a?utm_campaign=1063&utm_source=git)** | Pleasanton, CA, United States | Hybrid | Nov 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Dallas - Fort Worth Metroplex, Texas](https://jobright.ai/jobs/info/6ac41e36d9621c5b2839fc02?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 17 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Sacramento, California/Bay Area](https://jobright.ai/jobs/info/6ac41e24372c01f6cd734101?utm_campaign=1063&utm_source=git)** | Sacramento, CA, United States | On Site | Nov 17 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Consulting GTA: Consultant, Internship (Summer 2027)](https://jobright.ai/jobs/info/6afb2c3a7f9ead6668e9efd6?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 16 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2027, Investment Consulting](https://jobright.ai/jobs/info/6af7800c82422864006460a0?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 13 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern - Strategic Advisory Services (Summer 2027)](https://jobright.ai/jobs/info/6abee1e18ff3fb9b3bc768a6?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 13 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Bachelor's Intern](https://jobright.ai/jobs/info/6af66769323c531f31e329ba?utm_campaign=1063&utm_source=git)** | Pasadena, California, United States | Hybrid | Nov 13 |
-| ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6af6676a80054650a5e7ebb8?utm_campaign=1063&utm_source=git)** | Pasadena, California, United States | Hybrid | Nov 13 |
 | **[Amazon](https://amazon.com)** | **[Associate Delivery Consultant Intern, National Security, AWS Professional Services](https://jobright.ai/jobs/info/6ada6dc1950ef68d51857336?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 13 |
 | ↳ | **[Associate Delivery Consultant Intern, AWS Professional Services](https://jobright.ai/jobs/info/6ada6dbe4c3adc437ceccaff?utm_campaign=1063&utm_source=git)** | Arlington, VA, United States | On Site | Nov 13 |
 | **[Axle Logistics](https://axlelogistics.com)** | **[Logistics Consultant Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac752eb0e027c0f3b3b5dad?utm_campaign=1063&utm_source=git)** | Knoxville, TN 37917, United States | On Site | Nov 13 |
