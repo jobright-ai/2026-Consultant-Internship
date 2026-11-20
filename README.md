@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027](https://jobright.ai/jobs/info/6af549f4cbd2ee75d1560831?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 20 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 20 |
 | **[Oracle](https://www.oracle.com/)** | **[NetSuite ERP Functional Consultant SkillBridge Fellow](https://jobright.ai/jobs/info/6a5af545686b4755d1e17c85?utm_campaign=1063&utm_source=git)** | Continental United States, United States | Remote | Nov 20 |
 | **[PCCP](http://pccpllc.com)** | **[Intern, Portfolio Management](https://jobright.ai/jobs/info/6affcfcc6f4ca73dfeb46abc?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 19 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb43207d4f2e632e45ae?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Nov 16 |
 | **[WSP](http://www.wsp.com/)** | **[Management Consultancy Intern - Summer 2027](https://jobright.ai/jobs/info/6afb56597d1820d918c29196?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Miebach](http://www.miebach.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a9044512e254e06fb9efdb7?utm_campaign=1063&utm_source=git)** | Fishers, IN, United States | On Site | Nov 16 |
-| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf4427f9ead6668e9d418?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 16 |
-| ↳ | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf44f7d1820d918c25646?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf44f7d1820d918c25646?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
+| ↳ | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf4427f9ead6668e9d418?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 16 |
 | ↳ | **[Technical Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf43d317abe715a25f98d?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Consulting GTA: Consultant, Internship (Summer 2027)](https://jobright.ai/jobs/info/6afb2c3804af1c9f075c49ec?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 16 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/6aa4cf6982e82a31997bacfc?utm_campaign=1063&utm_source=git)** | Wallingford, CT, United States | On Site | Nov 16 |
