@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b00968489d8ca1e849578a9?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
+| **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6afeb85872b9be368528c8a7?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027](https://jobright.ai/jobs/info/6af549f4cbd2ee75d1560831?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 20 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 20 |
@@ -87,8 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Brokerage Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b252aa6152bb69e8a9?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Minneapolis/St. Paul, Minnesota](https://jobright.ai/jobs/info/6ac55cd4064da25272e16859?utm_campaign=1063&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 18 |
-| ↳ | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 18 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Kansas City, Missouri](https://jobright.ai/jobs/info/6ac503c28ff3fb9b3bc870df?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 18 |
 | ↳ | **[Risk Consultant Intern - Summer 2027 - Detroit, Michigan](https://jobright.ai/jobs/info/6ac40587372c01f6cd7336ae?utm_campaign=1063&utm_source=git)** | Detroit, MI, United States | On Site | Nov 18 |
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Environmental Consulting and Risk Management Intern](https://jobright.ai/jobs/info/6ac46b59064da25272e12957?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 18 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Partnerships & Brand Consulting Intern / Part-Time / Canada Corporate](https://jobright.ai/jobs/info/6afde44ff3e7976cc6109ccb?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 18 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Associate Consultant Intern](https://jobright.ai/jobs/info/6a68bb43207d4f2e632e45ae?utm_campaign=1063&utm_source=git)** | McLean, VA, United States | On Site | Nov 16 |
 | **[WSP](http://www.wsp.com/)** | **[Management Consultancy Intern - Summer 2027](https://jobright.ai/jobs/info/6afb56597d1820d918c29196?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Miebach](http://www.miebach.com)** | **[Supply Chain Intern - Summer 2027](https://jobright.ai/jobs/info/6a9044512e254e06fb9efdb7?utm_campaign=1063&utm_source=git)** | Fishers, IN, United States | On Site | Nov 16 |
-| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf44f7d1820d918c25646?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
-| ↳ | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf4427f9ead6668e9d418?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 16 |
+| **[Arup](http://www.arup.com)** | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf4427f9ead6668e9d418?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 16 |
+| ↳ | **[Lighting Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf44f7d1820d918c25646?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 16 |
 | ↳ | **[Technical Advisory Intern (Summer 2027)](https://jobright.ai/jobs/info/6afaf43d317abe715a25f98d?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Consulting GTA: Consultant, Internship (Summer 2027)](https://jobright.ai/jobs/info/6afb2c3804af1c9f075c49ec?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 16 |
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/6aa4cf6982e82a31997bacfc?utm_campaign=1063&utm_source=git)** | Wallingford, CT, United States | On Site | Nov 16 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Farm Performance Consultant Intern (Wisconsin)](https://jobright.ai/jobs/info/6adb951346a8cabdc1ff3b0e?utm_campaign=1063&utm_source=git)** | Wisconsin, United States | Hybrid | Nov 14 |
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6adc7eb346a8cabdc1ff755d?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 14 |
 | ↳ | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6af82e8735427cce9bb2c035?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 14 |
-| **[Thought Logic Consulting](https://thoughtlogic.com)** | **[Finance Transformation Intern - Atlanta](https://jobright.ai/jobs/info/6aad8a4f6956574eac8b653a?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
