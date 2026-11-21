@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FutureTech Insights](futuretechinsights.net)** | **[Technical sales & consulting Intern](https://jobright.ai/jobs/info/6b01defe0ae14188d58c4da4?utm_campaign=1063&utm_source=git)** | Appleton, WI, United States | On Site | Nov 21 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6afc939be4190296fd33dbea?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Nov 21 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6af898ed4ddfc50167b9891f?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 21 |
