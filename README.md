@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novalyft Media](novalyftmedia.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b013fbfa512f514bbde2bbc?utm_campaign=1063&utm_source=git)** | Chelmsford, Massachusetts, United States | On Site | Nov 20 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e5212ad6cde5ef24fd51?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 | **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[ERP Intern - NetSuite (Spring 2027)](https://jobright.ai/jobs/info/6b011af8f6ef85c61a50e88d?utm_campaign=1063&utm_source=git)** | Fargo, ND, United States | Remote | Nov 20 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Health Management Intern - Employer Services](https://jobright.ai/jobs/info/6adcee925dc7953215a3850a?utm_campaign=1063&utm_source=git)** | Golden Valley, Golden, United States | Hybrid | Nov 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Economic Consulting Intern (Spring 2027)](https://jobright.ai/jobs/info/6afa3106a68705504bebb23d?utm_campaign=1063&utm_source=git)** | Washington, DC, United States | On Site | Nov 19 |
 | **[Meridien Labs](meridienlabs.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6aff04c0b88323bd981bac28?utm_campaign=1063&utm_source=git)** | Appleton, WI, United States | On Site | Nov 19 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6afcea0994232f5ac42d330a?utm_campaign=1063&utm_source=git)** | Pleasanton, CA, United States | Hybrid | Nov 19 |
-| ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6af6676a80054650a5e7ebb8?utm_campaign=1063&utm_source=git)** | Pasadena, California, United States | Hybrid | Nov 19 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6af6676a80054650a5e7ebb8?utm_campaign=1063&utm_source=git)** | Pasadena, California, United States | Hybrid | Nov 19 |
+| ↳ | **[Consulting Master's Intern](https://jobright.ai/jobs/info/6afcea0994232f5ac42d330a?utm_campaign=1063&utm_source=git)** | Pleasanton, CA, United States | Hybrid | Nov 19 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 19 |
 | **[Intertek](http://www.intertek.com)** | **[Environmental Consulting Internship](https://jobright.ai/jobs/info/6a8d9fbca5639a4810326764?utm_campaign=1063&utm_source=git)** | Miami, FL, United States | On Site | Nov 19 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6afeb9841c42ea8f6b9fb477?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
@@ -131,8 +132,7 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2027 – IoT Industry Consulting Intern](https://jobright.ai/jobs/info/6af8decba68705504beb8da5?utm_campaign=1063&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer 2027 – IoT Industry Consulting Intern](https://jobright.ai/jobs/info/6af8dd98a68705504beb8d82?utm_campaign=1063&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer 2027 – IoT Industry Consulting Intern](https://jobright.ai/jobs/info/6af8d7bdf015f35e7418c3f6?utm_campaign=1063&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 14 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
-| ↳ | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Process Consultant Intern](https://jobright.ai/jobs/info/6ad94d8be4b94611ab8550f5?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
+| ↳ | **[Early Careers - Process Consultant Senior Intern](https://jobright.ai/jobs/info/6ad77ea3950ef68d51840869?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/6ac1060cd9621c5b283989c6?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 14 |
-| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Energy Consulting Intern - Financial and Planning Group (Summer 2027)](https://jobright.ai/jobs/info/6abee1e5064da25272e0395f?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
