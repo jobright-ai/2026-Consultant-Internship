@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quin Brown Management and Consulting, LLC](https://www.qbhrconsulting.com)** | **[Business Internship (Unpaid)](https://jobright.ai/jobs/info/6b02497f9378f7b150e11e15?utm_campaign=1063&utm_source=git)** | United States | Hybrid | Nov 21 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Sales Consultant Intern](https://jobright.ai/jobs/info/6b0228c5b2c65d24f91ed437?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | On Site | Nov 21 |
 | **[99 Yards](https://99yards.app)** | **[Sales Consultant And Marketing Intern ( January -April )](https://jobright.ai/jobs/info/6b021b31b2c65d24f91ed059?utm_campaign=1063&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Nov 21 |
 | **[FutureTech Insights](futuretechinsights.net)** | **[Technical sales & consulting Intern](https://jobright.ai/jobs/info/6b01defe0ae14188d58c4da4?utm_campaign=1063&utm_source=git)** | Appleton, WI, United States | On Site | Nov 21 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2027 University Graduate - Technical Support Consultant](https://jobright.ai/jobs/info/6aff7199865dbcc3f26fc504?utm_campaign=1063&utm_source=git)** | San Jose, CA, United States | On Site | Nov 18 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe23caf170d82b39671a89?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6afe2df5758942b6422b8426?utm_campaign=1063&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6afddc670324c008a17e1dc8?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 18 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc3950324c008a17e0c61?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
