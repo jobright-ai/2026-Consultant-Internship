@@ -139,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[1898 & Co.](https://1898andco.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/6ac121be8ff3fb9b3bc7d1d0?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 15 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Technology Consulting Intern - 1898 & Co. (Wallingford)](https://jobright.ai/jobs/info/6ac0ff1d4ac55253f5d69d5e?utm_campaign=1063&utm_source=git)** | Wallingford, CT, United States | On Site | Nov 15 |
 | ↳ | **[Business Consulting Intern - 1898 & Co. (Kansas City)](https://jobright.ai/jobs/info/6aa43da4c1928370a285d33c?utm_campaign=1063&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 15 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting (Part-Time)](https://jobright.ai/jobs/info/6a873abfd34f700f87fc43f1?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
