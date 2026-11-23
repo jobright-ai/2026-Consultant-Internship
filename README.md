@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Remote - Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0480dfa72582cade08e1c9?utm_campaign=1063&utm_source=git)** | Tampa, FL, United States | Remote | Nov 23 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b047911a72582cade08dd45?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 23 |
 | **[Keystone](https://www.keystone.com/)** | **[2027 Summer Interns - Associates and Consultants](https://jobright.ai/jobs/info/6b04760dc8533c23e3c3607d?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 23 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Consulting & Analytics Intern](https://jobright.ai/jobs/info/6b0449a421f0a1e0c8499b12?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 23 |
 | ↳ | **[Sports Consulting Intern](https://jobright.ai/jobs/info/6b044bf6a72582cade08c450?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6a91abcb8e59685453376de6?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91abde9864261ccd29e1fa?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Organization, People & Change Consulting Intern](https://jobright.ai/jobs/info/6a91bdc0d18f756748279e43?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Airport Operations, Houston (Summer 2027)](https://jobright.ai/jobs/info/6b0476d321f0a1e0c849b37c?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 23 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b033d0b5cc15ec1b42bfdea?utm_campaign=1063&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 22 |
 | ↳ | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b033d064e3d6ecd7d5e4666?utm_campaign=1063&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 22 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6afddc670324c008a17e1dc8?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 18 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe23caf170d82b39671a89?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6afe2df5758942b6422b8426?utm_campaign=1063&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc3950324c008a17e0c61?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
