@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6b04fe2c7bec27df08f957a5?utm_campaign=1063&utm_source=git)** | Seattle | On Site | Nov 24 |
+| **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6b05762a63d280053ef82bbe?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 24 |
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6b0569e6707ad7f3505385d7?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 24 |
-| ↳ | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6b04fe2c7bec27df08f957a5?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 24 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Technical Sales & Consulting Internship](https://jobright.ai/jobs/info/6b0541a142f2a3d16e7bf9d3?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | On Site | Nov 23 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6b04e99113646880439e6429?utm_campaign=1063&utm_source=git)** | Toronto | Hybrid | Nov 23 |
 | **[Health Advances](http://www.healthadvances.com)** | **[MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6b04d94e7fd2e33bde097de6?utm_campaign=1063&utm_source=git)** | Newton, MA, United States | On Site | Nov 23 |
@@ -131,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6afddc670324c008a17e1dc8?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 18 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe23caf170d82b39671a89?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6afe2df5758942b6422b8426?utm_campaign=1063&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc3950324c008a17e0c61?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
