@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Advances](http://www.healthadvances.com)** | **[MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6b04d94e7fd2e33bde097de6?utm_campaign=1063&utm_source=git)** | Newton, MA, United States | On Site | Nov 23 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia](https://jobright.ai/jobs/info/6b04d15e7fd2e33bde097aff?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
 | **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2026 Start](https://jobright.ai/jobs/info/6b04cd677bec27df08f949d5?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 23 |
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd2560a56e5406e57bfeef?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 23 |
 | **[Health Advances](http://www.healthadvances.com)** | **[MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6b04cc3a7bec27df08f94914?utm_campaign=1063&utm_source=git)** | Weston, MA, United States | On Site | Nov 23 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Consulting Analyst Intern](https://jobright.ai/jobs/info/6b04cb0258147eafa29964c0?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 23 |
 | **[ByteDance](http://bytedance.com)** | **[Mobility Operation Analyst Project Intern (HROP) - 2027 Start](https://jobright.ai/jobs/info/6ac130358ff3fb9b3bc7d2ef?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | On Site | Nov 23 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b048acf2d88b678f11771cc?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/6aac3f2395c707f49dff05f2?utm_campaign=1063&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 23 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abd7c12c90443efc74e1?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91a505360363009919388a?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 22 |
 | ↳ | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6aae9f472e757fcb5c8bbc18?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 22 |
-| ↳ | **[2027 Platforms & Customer Strategy Consulting Intern](https://jobright.ai/jobs/info/6aae91523d96632d741b122a?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 22 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91abcb9864261ccd29e1f2?utm_campaign=1063&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 22 |
 | ↳ | **[2027 Data & Analytics Consulting Intern](https://jobright.ai/jobs/info/6a91a5118e59685453376b43?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 22 |
 | ↳ | **[2027 Platforms & Technology Consulting Intern](https://jobright.ai/jobs/info/6a91a5093603630099193890?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 22 |
@@ -130,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6afddc670324c008a17e1dc8?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 18 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe23caf170d82b39671a89?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6afe2df5758942b6422b8426?utm_campaign=1063&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998acd90a313642c650d3e?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 | **[DriveWealth](https://drivewealth.com)** | **[AI Consulting Associate Program (AI CAP) People Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6afdc3950324c008a17e0c61?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b6b167bec1d0d9c782af?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | ↳ | **[AI Consulting Associate Program (AI CAP) Product Manager Intern - Summer 2027](https://jobright.ai/jobs/info/6ad7b70b950ef68d518430f0?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
