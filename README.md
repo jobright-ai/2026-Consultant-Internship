@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 25 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Public Sector & Infrastructure Consulting Intern](https://jobright.ai/jobs/info/6ad7a57367bec1d0d9c77755?utm_campaign=1063&utm_source=git)** | Chicago, Illinois, United States | On Site | Nov 25 |
+| ↳ | **[2027 Summer Healthcare Strategy & Operations Consulting Intern](https://jobright.ai/jobs/info/6a9611219fcec544237312e1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 25 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Healthcare Consulting Internship, Advanced-Degree Students, Class of 2028](https://jobright.ai/jobs/info/6b05b4fdd43f730eab59537e?utm_campaign=1063&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 24 |
 | **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027](https://jobright.ai/jobs/info/6af549f4cbd2ee75d1560831?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 24 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6b0620523e56157448ed3a24?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 24 |
@@ -116,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6b00b13f0f536e0ba72764fa?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | ↳ | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)](https://jobright.ai/jobs/info/6b00b128e0dc9619592834fe?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027](https://jobright.ai/jobs/info/6ac7cfb60e573df8adc74604?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e5212ad6cde5ef24fd51?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
+| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e523af6fea8c089b53eb?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 | **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b00968489d8ca1e849578a9?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[I/O Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3f43ceab1f967309786f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
@@ -140,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern Business Transformation Consultant 2027 – IBM Tech](https://jobright.ai/jobs/info/6afddc670324c008a17e1dc8?utm_campaign=1063&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 18 |
 | **[Arup](http://www.arup.com)** | **[Tech Consulting Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe23caf170d82b39671a89?utm_campaign=1063&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6afe2df5758942b6422b8426?utm_campaign=1063&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 18 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Severance Tax Consulting Intern - Houston, TX](https://jobright.ai/jobs/info/6a998f358a8b765bc55f3aa9?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
