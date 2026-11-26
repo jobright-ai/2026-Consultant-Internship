@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 26 |
+| ↳ | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 26 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Global Services Intern (Summer 2027)](https://jobright.ai/jobs/info/6a96ea52d13b4819f39ddb75?utm_campaign=1063&utm_source=git)** | Westerville, OH, United States | On Site | Nov 26 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0808170bd5d5fe945f325a?utm_campaign=1063&utm_source=git)** | Appleton, WI, United States | On Site | Nov 26 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | On Site | Nov 26 |
 | ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 26 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[I/O Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3f43ceab1f967309786f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2027](https://jobright.ai/jobs/info/6ac1c39a0e027c0f3b3a31ce?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Nov 20 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6afeb85872b9be368528c8a7?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
-| **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 20 |
 | **[KPMG Canada](https://www.kpmg.se)** | **[Victoria Internship Opportunities, Consulting, Fall Internship (September - December 2027)](https://jobright.ai/jobs/info/6aff78d2b47661ae4a62ce8e?utm_campaign=1063&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 19 |
 | ↳ | **[GVA Internship Opportunities, Consulting, Fall Internship (September - December 2027)](https://jobright.ai/jobs/info/6aff78d26f4ca73dfeb447d8?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 19 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Consulting Analyst Intern (LCS)](https://jobright.ai/jobs/info/6b00a62fdfa58e4c244dd237?utm_campaign=1063&utm_source=git)** | United States | Remote | Nov 19 |
