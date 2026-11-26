@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e3f978c69ff506c41097?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 26 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Dairy Sales, Genetics and Consulting Intern: Midwest USA](https://jobright.ai/jobs/info/6ae3158deab1f96730971f46?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 26 |
 | ↳ | **[Dairy Sales, Genetics and Consulting Intern: Eastern USA](https://jobright.ai/jobs/info/6ae31f05eab1f967309721fd?utm_campaign=1063&utm_source=git)** | DeForest, WI, United States | On Site | Nov 26 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Global Services Intern (Summer 2027)](https://jobright.ai/jobs/info/6a96ea52d13b4819f39ddb75?utm_campaign=1063&utm_source=git)** | Westerville, OH, United States | On Site | Nov 26 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Marsh People Solutions](http://www.mercer.com)** | **[Marsh Risk Early Career Internship Program - Strategic Risk Consulting Intern, Summer 2027 – Toronto](https://jobright.ai/jobs/info/6b076c6808b131a5c657a77a?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
 | **[AECOM](http://www.aecom.com/)** | **[Consulting Services Intern](https://jobright.ai/jobs/info/6b07574f20135524ca72be51?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 25 |
 | **[Docusign](http://www.docusign.com)** | **[Solution Consultant Intern](https://jobright.ai/jobs/info/6acd1e63e7a1d93332110186?utm_campaign=1063&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 25 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0715796c5083822fdc6ae8?utm_campaign=1063&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 25 |
 | **[Withum](http://www.withum.com)** | **[Valuation Consulting Boston Fall Intern 2026](https://jobright.ai/jobs/info/6ab206de191d8c340dbdd89f?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | On Site | Nov 25 |
 | **[OC&C Strategy Consultants](http://www.occstrategy.com)** | **[USA Consultant Internship (MBA) 2027](https://jobright.ai/jobs/info/6acd7d65d113c967e3c7e123?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Plural Strategy](https://www.pluralstrategy.com/)** | **[Strategy Consulting Intern](https://jobright.ai/jobs/info/6afdf5ab758942b6422b5f7f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
