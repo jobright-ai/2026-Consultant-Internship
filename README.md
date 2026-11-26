@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0808170bd5d5fe945f325a?utm_campaign=1063&utm_source=git)** | Appleton, WI, United States | On Site | Nov 26 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Digital Transformation Services Consulting Intern](https://jobright.ai/jobs/info/6a9611069fcec544237312d7?utm_campaign=1063&utm_source=git)** | Columbus, OH, United States | On Site | Nov 26 |
+| ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 26 |
+| ↳ | **[2027 Business Analytics Consulting Intern](https://jobright.ai/jobs/info/6a9704f8d13b4819f39de872?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 26 |
 | **[Elevare Consulting](joinelevareconsulting.com)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b079b65bdbb485d4ec68a45?utm_campaign=1063&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 25 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6b0790a01c953ffe4a37d912?utm_campaign=1063&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 25 |
 | ↳ | **[Energy Market Intern (Renewables & Flexible Power)](https://jobright.ai/jobs/info/6b07905dbdbb485d4ec68846?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 25 |
@@ -112,7 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)](https://jobright.ai/jobs/info/6b00b128e0dc9619592834fe?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027](https://jobright.ai/jobs/info/6ac7cfb60e573df8adc74604?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6aaa965240807b73bd390d77?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
-| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e5212ad6cde5ef24fd51?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
+| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e523af6fea8c089b53eb?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 | **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b00968489d8ca1e849578a9?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[I/O Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3f43ceab1f967309786f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
