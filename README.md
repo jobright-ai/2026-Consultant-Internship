@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b00968489d8ca1e849578a9?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[I/O Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3f43ceab1f967309786f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Solutions Consulting & Engineering- MBA Management Consulting Services Intern - 2027](https://jobright.ai/jobs/info/6ac1c39a0e027c0f3b3a31ce?utm_campaign=1063&utm_source=git)** | Maryland Heights, MO, United States | On Site | Nov 20 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6afeb85872b9be368528c8a7?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
