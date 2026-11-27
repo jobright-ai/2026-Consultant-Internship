@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0968e4dd884ad2cc58ce61?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
 | ↳ | **[2027 Audit IT Consultant Intern](https://jobright.ai/jobs/info/6a97165c455eaf6a08c1a90f?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
 | ↳ | **[2027 Managed IT Consulting Intern](https://jobright.ai/jobs/info/6a97051c246d697dcee02d17?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 27 |
@@ -125,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6aaa965240807b73bd390d77?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
 | **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e5212ad6cde5ef24fd51?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 | **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6b00968489d8ca1e849578a9?utm_campaign=1063&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[I/O Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3f43ceab1f967309786f3?utm_campaign=1063&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
