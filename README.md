@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[AI-First Transformation – Strategy Consultant Intern](https://jobright.ai/jobs/info/6ab41311d2f5fbd604be1658?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
+| **[Precision Medicine Group](http://www.precisionmedicinegrp.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e23830340229a3230304?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0968e4dd884ad2cc58ce61?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
 | ↳ | **[2027 Audit IT Consultant Intern](https://jobright.ai/jobs/info/6a97165c455eaf6a08c1a90f?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
@@ -124,6 +126,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)](https://jobright.ai/jobs/info/6b00b128e0dc9619592834fe?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027](https://jobright.ai/jobs/info/6ac7cfb60e573df8adc74604?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6aaa965240807b73bd390d77?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
-| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e523af6fea8c089b53eb?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
-| **[Resultant](https://resultant.com/)** | **[Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://jobright.ai/jobs/info/6b0096003a9a0230ab028aa6?utm_campaign=1063&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 20 |
+| **[Wilshire](http://wilshire.com/)** | **[Internship: Client Solutions (Summer 2026)](https://jobright.ai/jobs/info/6b00e5212ad6cde5ef24fd51?utm_campaign=1063&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
