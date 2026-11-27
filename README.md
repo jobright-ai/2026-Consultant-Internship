@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[IBM](http://www.ibm.com)** | **[AI-First Transformation – Strategy Consultant Intern](https://jobright.ai/jobs/info/6ab41311d2f5fbd604be1658?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
 | **[Precision Medicine Group](http://www.precisionmedicinegrp.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e23830340229a3230304?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0968e4dd884ad2cc58ce61?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
