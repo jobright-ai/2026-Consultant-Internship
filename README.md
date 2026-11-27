@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027](https://jobright.ai/jobs/info/6b00b13f0f536e0ba72764fa?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | ↳ | **[GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)](https://jobright.ai/jobs/info/6b00b128e0dc9619592834fe?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 21 |
 | **[WTW](https://www.wtwco.com)** | **[Early Careers: Pharmacy Benefits Consulting Internship - Chicago - Summer 2027](https://jobright.ai/jobs/info/6ac7cfb60e573df8adc74604?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Appraisal & Consulting](https://jobright.ai/jobs/info/6aaa965240807b73bd390d77?utm_campaign=1063&utm_source=git)** | West Des Moines, IA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
