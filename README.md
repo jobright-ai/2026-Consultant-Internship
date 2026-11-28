@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://jobright.ai/jobs/info/6a91a8c7a27a2d3c984891c5?utm_campaign=1063&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 22 |
 | **[Newmark](https://www.nmrk.com)** | **[Newmark Management Consulting Intern](https://jobright.ai/jobs/info/6aadccc73d96632d741afdc2?utm_campaign=1063&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Delivery Consultant Intern – Entry Level Sales Program 2027](https://jobright.ai/jobs/info/6afc939be4190296fd33dbea?utm_campaign=1063&utm_source=git)** | Markham, ON, Canada | Hybrid | Nov 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6af898ed4ddfc50167b9891f?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 21 |
-| **[West Monroe](https://www.westmonroe.com)** | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
