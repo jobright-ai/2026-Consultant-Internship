@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 28 |
 | **[Amazon](https://amazon.com)** | **[Associate Delivery Consultant Intern – AIML, AWS Professional Services](https://jobright.ai/jobs/info/6b09c78e0dcf7f64923b532a?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[IBM](http://www.ibm.com)** | **[AI-First Transformation – Strategy Consultant Intern](https://jobright.ai/jobs/info/6ab41311d2f5fbd604be1658?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
 | **[Precision Medicine Group](http://www.precisionmedicinegrp.com)** | **[Summer 2027 Internship, Market Access Consulting](https://jobright.ai/jobs/info/6ab2e23830340229a3230304?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Technical Sales & Consulting Intern](https://jobright.ai/jobs/info/6b0968e4dd884ad2cc58ce61?utm_campaign=1063&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 27 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
-| ↳ | **[2027 Audit IT Consultant Intern](https://jobright.ai/jobs/info/6a97165c455eaf6a08c1a90f?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2027 Audit IT Consultant Intern](https://jobright.ai/jobs/info/6a97165c455eaf6a08c1a90f?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 27 |
 | ↳ | **[2027 Managed IT Consulting Intern](https://jobright.ai/jobs/info/6a97051c246d697dcee02d17?utm_campaign=1063&utm_source=git)** | Denver, Colorado, United States | On Site | Nov 27 |
 | ↳ | **[2027 Business Technology Advisory Consulting Intern](https://jobright.ai/jobs/info/6a970508455eaf6a08c1a1a4?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 27 |
 | ↳ | **[2027 Transaction Advisory Services Consulting Intern](https://jobright.ai/jobs/info/6a970513e4e60e4b8da5b86b?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | On Site | Nov 27 |
