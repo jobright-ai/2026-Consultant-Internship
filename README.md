@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Tax Consulting Intern - Canada](https://jobright.ai/jobs/info/6af898ed4ddfc50167b9891f?utm_campaign=1063&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2027 Platforms & Business Consulting Intern](https://jobright.ai/jobs/info/6a91bd97a27a2d3c98489ce2?utm_campaign=1063&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Risk Consultant Intern - Summer 2027 - Hartford, Connecticut](https://jobright.ai/jobs/info/6ac8fcf16355f8776ff16c50?utm_campaign=1063&utm_source=git)** | Hartford, CT, United States | On Site | Nov 21 |
-| **[IBM](http://www.ibm.com)** | **[Corporate Strategy Summer Consultant – Internship](https://jobright.ai/jobs/info/6aa18bf2500b01124c77d3c7?utm_campaign=1063&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
