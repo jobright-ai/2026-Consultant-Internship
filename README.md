@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GALLO](http://www.gallocareers.com)** | **[MBA IT Internship 2027](https://jobright.ai/jobs/info/6af549f4cbd2ee75d1560831?utm_campaign=1063&utm_source=git)** | Modesto, CA, United States | Hybrid | Nov 28 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2027 Finance and Accounting Advisory Services Consulting Internship](https://jobright.ai/jobs/info/6a98714ddef18223c854f7d1?utm_campaign=1063&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Nov 28 |
 | **[Amazon](https://amazon.com)** | **[Associate Delivery Consultant Intern – AIML, AWS Professional Services](https://jobright.ai/jobs/info/6b09c78e0dcf7f64923b532a?utm_campaign=1063&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Assistant Vice President Internship - Corporate Functions, Strategy & Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6a6014b5193b51130967c56f?utm_campaign=1063&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
